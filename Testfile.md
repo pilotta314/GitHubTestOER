@@ -28,11 +28,48 @@ Die Fallbeschleunigung beträgt auf der Erde **9,81m/s^2** und auf dem Mond **1,
 
 # Tests:
 
-Checklisten:
+### Checklisten:
+
 - [ ] A
-- [ ] B
+- [X] B
 - [ ] C
 
+### Collapse:
+
+<details>
+  <summary markdown="span">Solution down here.</summary>
+
+    Great, you found the solution!
+
+</details>
+
+### Video:
+
+![Sample Video](https://www.youtube.com/embed/enMumwvLAug)
+
+### Table:
+
+|    Features     | GitLab       | GitHub          | Moodle         |
+|-----------------|:-------------|:---------------:|---------------:|
+| Tables          | check        |                 |                |
+| Collapse        |              |                 |                |
+| ...             |              |                 |                |
+
+### Code-Blocks:
+
+**In-line:** 
+`Example` code block in-line.
+
+**Fenced:**
+```python
+def hello
+    print("Hello World!")
+end
+```
+
+### Links:
+
+Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
 
 
 
