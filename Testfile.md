@@ -6,7 +6,7 @@ Eine Eigenschaft, die jeden Körper kennzeichnet, ist seine Masse. Schon seit la
 
 > Die **Masse** ist eine Eigenschaft eines Körpers. Bringt man einen Körper zum Beispiel von der Erde auf den Mond, bleibt seine Masse erhalten. Die Einheit der Masse ist: **[_m_]=kg**.
 
-![Abbildung 10](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png "Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht (C)")
+![Abbildung 10](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png "Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht (C)")*Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht (C)*
 
 In der Abbildung links ist eine Balkenwaage gezeigt. Die beiden Körper auf den Schalen sind gleich schwer und die Waage ist im Gleichgewicht. Legt man jetzt auf einer Seite einen zweiten Körper dazu, bewegt sich diese Seite nach unten. Dies ist im Bild rechts gezeigt. Der Grund für diesen Vorgang liegt darin, dass sich Körper gegenseitig anziehen. Diese Anziehung hängt von der Masse ab. Hier zieht die Erde die Waage an und damit auch die beiden Waagschalen. Die Waagschale mit zwei Massen wird stärker angezogen.
 
