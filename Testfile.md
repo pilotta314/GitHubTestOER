@@ -28,11 +28,8 @@ Die Fallbeschleunigung beträgt auf der Erde **9,81m/s^2** und auf dem Mond **1,
 
 # Tests:
 
-### Checklisten:
+### Quiz / Checklist:
 
-- [ ] A
-- [X] B
-- [ ] C
 
 ### Collapse:
 
@@ -45,9 +42,6 @@ Die Fallbeschleunigung beträgt auf der Erde **9,81m/s^2** und auf dem Mond **1,
 
 ### Video:
 
-[![Sample Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1599680144/video_to_markdown/images/youtube--enMumwvLAug-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/embed/enMumwvLAug "Sample Video")
-
-But I don't think that works with every video platform.
 
 ### Table:
 
@@ -72,12 +66,6 @@ end
 ### Links:
 
 Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
-
-
-
-
-
-
 
 
 
