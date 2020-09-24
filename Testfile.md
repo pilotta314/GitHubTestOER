@@ -1,7 +1,7 @@
 # Tests:
 
 ### Quiz / Checklist:
-
+??
 
 ### Collapse:
 
@@ -13,6 +13,7 @@
 </details>
 
 ### Video:
+??
 
 
 ### Table:
@@ -49,11 +50,8 @@ multi
 lines
 ```
 
-[+green=correct+]
-[-red=false-]
 
 ### Checkbox:
-
 ??
 
 
