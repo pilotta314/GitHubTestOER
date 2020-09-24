@@ -13,7 +13,7 @@
 </details>
 
 ### Video:
-??
+[![Definition der Kraft](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
 
 
 ### Table:
@@ -43,6 +43,10 @@ Sample Info-Panel
 
 </div>
 
+<div class="alert alert-block alert-success">
+  <b> Achtung, wichtig! </b>
+</div>
+ 
 `only in one line possible`
 
 ```
