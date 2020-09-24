@@ -63,5 +63,31 @@ lines
 
 Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
 
+### Formeln
 
+<math> 
+  <> x^2 </>
+</math>
+
+[latex]1+2=3[/latex]
+
+<math>
+    <mrow> 
+        <mn>1</mn><mo>+</mo><mn>2</mn>
+        <mo>=</mo><mn>3</mn> 
+    </mrow> 
+</math>
+
+<script src="plugin/math/math.js"></script>
+<script>
+  Reveal.initialize({
+    math: {
+      mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
+      config: 'TeX-AMS_HTML-full',
+      // pass other options into `MathJax.Hub.Config()`
+      TeX: { Macros: { RR: "{\\bf R}" } }
+    },
+    plugins: [ RevealMath ]
+  });
+</script>
 
