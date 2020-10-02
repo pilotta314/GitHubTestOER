@@ -10,6 +10,12 @@
 
 </details>
 
+### Picture
+
+![Sample Picture](docs/markdown_logo.png "GitLab Logo")
+
+![Definition der Kraft](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)
+
 ### Video:
 [![Definition der Kraft](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
 
