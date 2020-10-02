@@ -69,6 +69,13 @@ lines
 
 Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
 
+### Schriftgröße
+
+<h1> Dieser Text ist riesig</h1>
+<h6> Dieser Text ist winzig
+  <br>und geht über mehrere Zeilen
+</h6>
+
 ### Formeln
 
 <math> 
