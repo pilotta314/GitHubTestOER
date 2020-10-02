@@ -10,14 +10,21 @@
 
 </details>
 
-### Picture
+### Pictures
 
-![Sample Picture](docs/markdown_logo.png "GitLab Logo")
+![Sample Picture](docs/markdown_logo.png "Markdown Logo")
 
 ![Definition der Kraft](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)
 
 ### Video:
-[![Definition der Kraft](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
+[![Video mit Bild](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
+
+![Sample Video](docs/markdown_video.mp4 "GitLab sample video")
+
+#### Audio:
+
+![Sample Audio](img/markdown_audio.mp3 "GitLab sample audio")
+
 
 
 ### Table:
