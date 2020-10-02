@@ -1,9 +1,6 @@
 # Tests:
 
 
-### Quiz / Checklist:
-??
-
 ### Collapse:
 
 <details>
