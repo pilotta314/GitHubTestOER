@@ -1,6 +1,5 @@
 # Tests:
 
-
 ### Collapse:
 
 <details>
@@ -32,8 +31,8 @@
 |    Features     | GitLab       | GitHub          | Moodle         |
 |-----------------|:-------------|:---------------:|---------------:|
 | Tables          | check        |                 |                |
-| Collapse        |              |                 |                |
-| ...             |              |                 |                |
+| Collapse        |              |       middle    |                |
+| ...             |              |                 |     right      |
 
 ### Code-Blocks:
 
@@ -114,3 +113,16 @@ Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
   });
 </script>
 
+### Lists
+
+1. First
+1. Second
+   1. ordered
+   1. sub-list
+1. Third
+   1. ordered
+   1. sub-list
+1. Fourth
+   - unordered
+   - sub-list
+1. Last one
