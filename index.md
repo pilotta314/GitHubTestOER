@@ -4,9 +4,8 @@
 
 Formeltest:
 
-{% raw %}
-  $$a^2 + b^2 = c^2$$ 
-{% endraw %}
+$$ \sum_{i=1}^na_i=x $$
+
 
 Eine Eigenschaft, die jeden Körper kennzeichnet, ist seine Masse. Schon seit langer Zeit werden Massen bestimmt. Mit Hilfe von Balkenwaagen konnten die Ägypter vor mehr als 5000 Jahren Massen vergleichen und unbekannte Massen bestimmen. Sind zwei Massen gleich groß, ist eine Balkenwaage bei einer Messung im Gleichgewicht. Ist die Masse auf einer Seite größer, bewegt sich diese Seite nach unten. Dieses Verhalten ist unabhängig davon, wo die Messung durchgeführt wird. Eine Anordnung, die auf der Erde im Gleichgewicht ist, wäre sogar auf dem Mond im Gleichgewicht. 
 
