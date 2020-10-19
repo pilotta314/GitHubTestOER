@@ -88,8 +88,14 @@ Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
 ### Formeln
 
 <math> 
-  <> x^2 </>
+   x^2
 </math>
+
+```math
+\sum_{i=1}^{n}
+\Phi(x_i^2)
+```
+
 
 [latex]1+2=3[/latex]
 
