@@ -64,6 +64,10 @@ multi
 lines
 ```
 
+[+green=correct+]
+
+[-red=false-]
+
 
 ### Checkbox:
 
