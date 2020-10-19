@@ -22,7 +22,7 @@
 
 #### Audio:
 
-![Sample Audio](img/markdown_audio.mp3 "GitLab sample audio")
+![Sample Audio](docs/markdown_audio.mp3 "GitLab sample audio")
 
 
 
