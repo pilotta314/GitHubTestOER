@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     {% include mathjax_support %}  
