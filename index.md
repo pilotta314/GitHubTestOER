@@ -11,7 +11,7 @@
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
-Formeltest: 
+Formeltest: !
 
  $ \sum_{i=1}^na_i=x $
 
