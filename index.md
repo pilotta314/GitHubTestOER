@@ -1,11 +1,4 @@
-<html>
-  <head>
-    {% include mathjax_support %}  
-  </head>
- </html>
-	  
-	  
-	  
+{% include mathjax_support %} 	  
 # 3.1.1 Definition und Messung der Kraft
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
