@@ -120,6 +120,169 @@ Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt 3,69ms2.
 
 ----
 
+73
+
+F=m⋅a
+
+74
+
+​
+
+75
+
+oder in Vektorschreibweise →F=m⋅→a.Mit einer Kraft von F=1N wird ein Körper der Masse m=1kg mit der Beschleunigung a=1ms2 in einer Sekunde auf die Geschwindigkeit v=1ms beschleunigt.
+
+76
+
+​
+
+77
+
+---
+
+78
+
+### Aufgabe 3.1.2  
+
+79
+
+ 
+
+80
+
+Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwaage gelegt. Die Waage befindet sich im Gleichgewicht. Was passiert, wenn Sie dieselbe Anordnung auf den Mond bringen? 
+
+81
+
+​
+
+82
+
+**A**  Der Arm mit dem größeren Körper bewegt sich nach unten.
+
+83
+
+​
+
+84
+
+__B__  Der Arm mit dem kleineren Körper bewegt sich nach unten.
+
+85
+
+​
+
+86
+
+**C**  Nichts, warum sollte sich was ändern?    
+
+87
+
+​
+
+88
+
+**D**  Um das voraussagen zu können, braucht man mehr Informationen. 
+
+89
+
+​
+
+90
+
+<details>
+
+91
+
+  <summary markdown="span">Lösung</summary>
+
+92
+
+​
+
+93
+
+    Richtig ist C. Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der gleichen   Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht. 
+
+94
+
+    
+
+95
+
+</details>
+
+96
+
+​
+
+97
+
+***
+
+98
+
+​
+
+99
+
+### Aufgabe 3.1.3  
+
+100
+
+ 
+
+101
+
+Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft FG erfährt es?
+
+102
+
+Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt 3,69ms2.
+
+103
+
+ 
+
+104
+
+ **A**  m=3,69kg      und      FG=3,69N         
+
+105
+
+​
+
+106
+
+ **B**  m=1,00kg      und      FG=3,69N         
+
+107
+
+ 
+
+108
+
+ **C**  m=3,69kg      und      FG=36,2N 
+
+109
+
+ 
+
+110
+
+ **D**  m=3,69kg      und      FG=13,6N
+
+111
+
+​
+
+112
+
+<details>
+
+113
+
+  <summary markdown="span">Lösung</summary>
 ### Aufgabe 3.1.4
  
 Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich dort auf die Waage. Wo zeigt die Waage den höchsten Wert an?
@@ -271,5 +434,35 @@ Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen.
 Falls nicht anders angegeben, verwenden Sie g=9,81ms2 .
 
+### Aufgabe 3.1.8  
+ 
+Ein Astronaut kann auf dem Mond viel höher springen als auf der Erde, weil …
+ 
+ **A**  … der Mond keine Atmosphäre hat. 	
 
+ **B**  … die Masse des Astronauten auf dem Mond geringer ist. 	
+ 
+ **C**  … die Gewichtskraft des Astronauten auf dem Mond geringer ist als auf der Erde.  
+
+<details>
+  <summary markdown="span">Lösung</summary>
+    Richtig ist C.
+    Der Mond hat eine geringere Masse als die Erde. Daraus resultiert eine geringere Anziehungskraft (Gewichtskraft) für Massen. (Die Masse des Astronauten ist immer gleich.)  
+</details>
+
+### Aufgabe 3.1.9  
+ 
+Ein Körper befindet sich auf dem Mond. Welche der folgenden Aussagen ist oder sind richtig?
+ 
+ **A**  Die Gewichtskraft des Körpers auf dem Mond ist geringer als die Gewichtskraft auf der Erdoberfläche.  	
+
+ **B**  Die Masse des Körpers auf der Mondoberfläche ist die gleiche wie auf der Erde. 	
+ 
+ **C**  Die Gewichtskraft des Körpers auf dem Mond ist genauso groß wie die Gewichtskraft auf der Erdoberfläche.  
+
+<details>
+  <summary markdown="span">Lösung</summary>
+    Richtig sind A und B.
+    Auf dem Mond beträgt die Fallbeschleunigung nur etwa ein Sechstel der Erdbeschleunigung. Daher beträgt die Gewichtskraft auch nur etwa ein Sechstel der Gewichtskraft auf der Erdoberfläche. Die Masse ist eine intrinsische Eigenschaft des Körpers und hängt nicht von der Fallbeschleunigung ab.  
+</details>
 
