@@ -1,12 +1,3 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>3.1.1 Definition und Messung der Kraft</title>
-  </head>
-  <body>
-	  
-	  {% include mathjax_support %} 	  
 # 3.1.1 Definition und Messung der Kraft
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
@@ -182,5 +173,3 @@ Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
    - sub-list
 1. Last one
 
-  </body>
-</html>
