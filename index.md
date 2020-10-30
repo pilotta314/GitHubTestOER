@@ -1,4 +1,5 @@
-  <script>
+  <head>
+	<script>
 	type="text/x-mathjax-config">
     MathJax.Hub.Config({
       tex2jax: {
@@ -8,6 +9,7 @@
     });
   </script>
   <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+</head>
   
 # 3.1.1 Definition und Messung der Kraft
 
