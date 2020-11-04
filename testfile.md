@@ -1,6 +1,6 @@
 # Tests:
 
-## Collapse:
+Collapse:
 
 Solution down here. Great, you found the solution!
 
@@ -111,6 +111,4 @@ content 1
 content 2
 {% endtab %}
 {% endtabs %}
-
-
 
