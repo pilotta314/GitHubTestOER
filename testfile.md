@@ -88,18 +88,6 @@ x^2
 
 1+2=3
 
-  
-  Reveal.initialize\({  
-    math: {  
-      mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',  
-      config: 'TeX-AMS\_HTML-full',  
-      // pass other options into \`MathJax.Hub.Config\(\)\`  
-      TeX: { Macros: { RR: "{\\bf R}" } }  
-    },  
-    plugins: \[ RevealMath \]  
-  }\);  
-
-
 ## Lists
 
 1. First
