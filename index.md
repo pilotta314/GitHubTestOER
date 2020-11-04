@@ -1,5 +1,3 @@
-$x^2$
-$$x^2$$
 # 3.1.1 Definition und Messung der Kraft
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
