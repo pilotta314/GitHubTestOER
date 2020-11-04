@@ -73,39 +73,7 @@ Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
 
  Dieser Text ist riesig
 
-####  Dieser Text ist winzig und geht über mehrere Zeilen
-
-{% api-method method="post" host="" path="" %}
-{% api-method-summary %}
-hi
-{% endapi-method-summary %}
-
-{% api-method-description %}
-hi
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+####  Dieser Text ist winzig und geht über mehrere Zeile
 
 ## Formeln
 
@@ -133,4 +101,16 @@ x^2
    * unordered
    * sub-list
 5. Last one
+
+{% tabs %}
+{% tab title="Question" %}
+content 1
+{% endtab %}
+
+{% tab title="Solution" %}
+content 2
+{% endtab %}
+{% endtabs %}
+
+
 
