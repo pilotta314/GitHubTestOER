@@ -71,9 +71,11 @@ Bei Kräften handelt es sich um vektorielle Größen. Sie sind gekennzeichnet du
 
 Zwei Kräfte sind vom Betrag gleich groß, wenn sie einen Körper gleich stark verformen oder seinen Bewegungszustand in der gleichen Weise verändern. Zwei vom Betrag gleich große Kräfte, die in die gleiche Richtung an einem Körper angreifen, addieren sich zur doppelten Kraft. Zeigen Sie in die entgegengesetzte Richtung, heben sie sich auf und der Körper bleibt in Ruhe.
 Allgemein gilt für eine Kraft das von Newton gefundene Grundgesetz der Dynamik:
+
 $$
 F=m*a
 $$
+
 oder in Vektorschreibweise $$\vec{F}=m*\vec{a}$$. Mit einer Kraft von $$F=1N$$ wird ein Körper der Masse $$m=1kg$$ mit der Beschleunigung $$a=1\frac{m}{s^2}$$ in einer Sekunde auf die Geschwindigkeit $$v=1\frac{m}{s}$$ beschleunigt.
 
 ---
