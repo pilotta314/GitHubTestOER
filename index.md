@@ -1,6 +1,10 @@
 # 3.1.1 Definition und Messung der Kraft
 
 Test
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+$`\alpha*F`$
+$$\alpha*F$$
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
