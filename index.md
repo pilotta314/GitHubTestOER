@@ -18,52 +18,52 @@ Diese Schwerkraft ist auch die Ursache für die Fallbeschleunigung. Jeder Körpe
 
 `Für die Kraft `$$F$$` bzw. `$$\vec{F}$$`, die auf einen Körper der Masse `$$m$$` im Schwerefeld der Erde wirkt, gilt: `$$F=m*g$$` bzw. `$$\vec{F}=m*\vec{g}$$`.`
 
-Hier steht $$→g$$ für die bekannte Erdbeschleunigung. Die Erdbeschleunigung hängt vom Ort ab. So erfährt ein Körper am Äquator eine andere beschleunigende Kraft als auf dem Mount Everest oder am Nordpol. Der Vektorpfeil zeigt an, dass Erdbeschleunigung und damit auch die Kraft eine Richtung besitzt.
+Hier steht `$$\vec{g}$$` für die bekannte Erdbeschleunigung. Die Erdbeschleunigung hängt vom Ort ab. So erfährt ein Körper am Äquator eine andere beschleunigende Kraft als auf dem Mount Everest oder am Nordpol. Der Vektorpfeil zeigt an, dass Erdbeschleunigung und damit auch die Kraft eine Richtung besitzt.
 
-``Die Einheit der Kraft F ist das Newton: $$[F]=N$$. Für das Newton gilt: $$1N=1kg⋅ms2$$.``
+`Die Einheit der Kraft `$$F$$` ist das Newton: `$$[F]=N$$`. Für das Newton gilt: `$$1N=1kg*\frac{m}{s^2}$$`.`
 
 
 > ## Beispiel 3.1.1
 >
 >Peter stellt sich auf der Erde auf seine Personenwaage. Die Anzeige seiner Waage zeigt $$70,0kg$$ an. Mit einer Weltraummission fliegt er auf den Mond und stellt sich dort erneut auf seine Waage. Welches Gewicht zeigt die Waage auf dem Mond an?
->Die Fallbeschleunigung beträgt auf der Erde $$9,81ms2$$ und auf dem Mond $$1,62ms2$$.
+>Die Fallbeschleunigung beträgt auf der Erde $$9,81\frac{m}{s^2}$$ und auf dem Mond $$1,62m\frac{m}{s^2}$$.
 >Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit 1kg auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall
 >
->$$F_1kg,Erde=1kg⋅9,81ms2=9,81N$$.
+>$$F_{1kg,Erde}=1kg*9,81\frac{m}{s^2}=9,81N$$.
 >
 >Jedoch ist die Skala so angelegt, dass der Nutzer direkt die Masse, also Kilogramm ablesen kann. Auf Peter wirkt auf der Erde zwar eine Gewichtskraft von
 >
->$$F_Peter,Erde=70kg⋅9,81ms2=687N$$,
+>$$F_{Peter,Erde}=70kg*9,81\frac{m}{s^2}=6871N$$,
 >
 >die Waage zeigt aber 70kg an.
 >Auf dem Mond erfährt Peter wegen der geringeren Fallbeschleunigung eine Gewichtskraft von:
 >
->$$F_Peter,Mond=70kg⋅1,62ms2=113N$$.
+>$$F_{Peter,Mond}=70kg*1,62\frac{m}{s^2}=113N$$.
 >
 >Die Gewichtskraft auf dem Mond ist also wesentlich kleiner als auf der Erde. Die Waage zeigt bei dieser kleineren wirkenden Kraft auch einen geringeren Wert als auf der Erde an. Um den auf dem Mond angezeigten Wert der Masse zu erhalten, muss die Gewichtskraft auf dem Mond durch die Fallbeschleunigung der Erde geteilt werden, da die Waage auf diesen Wert kalibriert ist:
 >
->$$m_angezeigt,Mond=113N9,81ms2=11,5kg$$.
+>$$m_{angezeigt,Mond}=\frac{113N}{9,81\frac{m}{s^2}}=11,5kg$$.
 
 Man muss also unterscheiden zwischen der Masse eines Körpers und der Gewichtskraft. Die Masse ist eine unveränderliche Größe, eine Eigenschaft des Körpers, während die Gewichtskraft, die ein Körper erfährt, davon abhängt, wo sich ein Körper befindet.
 
 Allgemein wird die Anziehung zwischen zwei Körpern durch das von Isaac Newton entdeckte Gravitationsgesetz beschrieben. Dieses Gesetz besagt, dass sich zwei Körper anziehen. Für die anziehende Kraft gilt folgender Zusammenhang:
-
-$$FG=G⋅m1⋅m2r2$$
-
+$$
+F_G=G*\frac{m_1*m_2}{r^2}
+$$
 mit:
 
-m1,m2:       	die sich anziehenden Massen;
-r:             	der Abstand, in dem sich die Massen befinden;
-G:             	Gravitationskonstante. Neben G wir oft auch γ verwendet.
+$$m_1,m_2$$:       	die sich anziehenden Massen;
+$$r$$:             	der Abstand, in dem sich die Massen befinden;
+$$G$$:             	Gravitationskonstante. Neben $$G$$ wir oft auch $$\gamma$$ verwendet.
 
 Die Kraft wird hier wesentlich von den Massen der beiden Körper beeinflusst. Je schwerer ein Körper ist, desto größer wird die Kraft. Ist ein Körper sehr schwer, wie zum Beispiel die Erde, wird die Kraft sehr groß und kann leicht gemessen werden. Der Abstand zwischen den beiden Körpern wirkt sich ebenfalls stark auf die anziehende Kraft aus. Je größer der Abstand ist, desto kleiner ist die Anziehung zwischen den Körpern. Verdoppelt sich der Abstand zwischen den Körpern, sinkt die Kraft auf ein Viertel des ursprünglichen Wertes. Wichtig ist, dass die Kraft auf beide Körper wirkt. Die Erde zieht den fallenden Apfel genauso stark an, wie der Apfel die Erde. Die Masse des Apfels ist aber wesentlich kleiner als die der Erde. Deshalb ist die anziehende Wirkung des Apfels auf die Erde nicht zu bemerken. Der Apfel fällt deshalb auf die Erde und nicht die Erde auf den Apfel.
 Der Einfachheit halber werden die Größen Erdmasse, Gravitationskonstante und Erdradius zu den Fallbeschleunigungen zusammengefasst. Für die Erde erhält man den bekannten Wert für g. In der Tabelle wurden die Fallbeschleunigungen für Erde, Mond und Jupiter aus deren Massen und Radien bestimmt. Die berechneten Werte passen sehr gut zu den bekannten Werten. Abweichungen vom tatsächlichen Wert liegen zum Beispiel darin begründet, dass die Erde keine ideale Kugelform hat oder dass für die Berechnung beim Jupiter mit den Vielfachen von Erdmasse und Erdradius gerechnet wurde.
 
-|         | Masse m        | Radius r       | Gravitationskonstante G | Fallbeschleunigung g | Tabellenwert |
+|         | Masse $$m$$    | Radius $$r$$   | Gravitationskonstante $$G$$ | Fallbeschleunigung $$g$$ | Tabellenwert |
 |---------|----------------|----------------|-------------------------|----------------------|--------------|
-| Erde    | 5,974\*1024kg  | 371km          | 6,672\*10−11Nm2kg2      | ≈9,820ms2            | 9,81ms2      |
-| Mond    | 7,349\*1022kg  | 1738km         | 	 6,672\*10−11Nm2kg2    | ≈1,622ms2            | 1,62ms2      |
-| Jupiter |	≈318\*Erdmasse	| ≈12\*Erdradius |	 6,672\*10−11Nm2kg2    	| ≈21,69ms2  	         | 23,1ms2      |
+| Erde    | $$5,974*10^{24}kg$$       | $$6371 km$$  |  $$6,672*10^{-11}\frac{N*m^2}{kg^2}$$ | $$\approx 9,820\frac{m}{s^2}$$ |$$9,81\frac{m}{s^2}$$ |
+| Mond    | $$7,349*10^{22}kg$$       | $$1738 km$$  | 	$$6,672*10^{-11}\frac{N*m^2}{kg^2}$$ |$$\approx 1,622\frac{m}{s^2}$$  | $$1,62\frac{m}{s^2}$$|
+| Jupiter |	$$\approx 318*Erdmasse$$	| $$\approx 12* Erdradius$$ |	$$6,672*10^{-11}\frac{N*m^2}{kg^2}$$ 	|$$\approx 21,69\frac{m}{s^2}$$  | $$23,1\frac{m}{s^2}$$ |
 
 
 
@@ -71,10 +71,10 @@ Bei Kräften handelt es sich um vektorielle Größen. Sie sind gekennzeichnet du
 
 Zwei Kräfte sind vom Betrag gleich groß, wenn sie einen Körper gleich stark verformen oder seinen Bewegungszustand in der gleichen Weise verändern. Zwei vom Betrag gleich große Kräfte, die in die gleiche Richtung an einem Körper angreifen, addieren sich zur doppelten Kraft. Zeigen Sie in die entgegengesetzte Richtung, heben sie sich auf und der Körper bleibt in Ruhe.
 Allgemein gilt für eine Kraft das von Newton gefundene Grundgesetz der Dynamik:
-
-F=m⋅a
-
-oder in Vektorschreibweise →F=m⋅→a.Mit einer Kraft von F=1N wird ein Körper der Masse m=1kg mit der Beschleunigung a=1ms2 in einer Sekunde auf die Geschwindigkeit v=1ms beschleunigt.
+$$
+F=m*a
+$$
+oder in Vektorschreibweise $$\vec{F}=m*\vec{a}$$. Mit einer Kraft von $$F=1N$$ wird ein Körper der Masse $$m=1kg$$ mit der Beschleunigung $$a=1\frac{m}{s^2}$$ in einer Sekunde auf die Geschwindigkeit $$v=1\frac{m}{s}$$ beschleunigt.
 
 ---
 ### Aufgabe 3.1.2
@@ -100,8 +100,8 @@ __B__  Der Arm mit dem kleineren Körper bewegt sich nach unten.
 
 ### Aufgabe 3.1.3
 
-Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft FG erfährt es?
-Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt 3,69ms2.
+Welche Masse $$m$$ hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $$FG$$ erfährt es?
+Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt $$3,69ms2$$.
 
  **A**  m=3,69kg      und      FG=3,69N
 
@@ -115,8 +115,8 @@ Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt 3,69ms2.
   <summary markdown="span">Lösung</summary>
 
     Richtig ist A.
-    Die Masse ist unverändert 1,00kg und die wirkende Schwerebeschleunigung liegt bei 3,69ms2. Für die wirkende Gewichtskraft ergibt sich also:
-    FG=m⋅a=1kg⋅3,69ms2=3,69N.
+    Die Masse ist unverändert $$1,00kg$$ und die wirkende Schwerebeschleunigung liegt bei $$3,69ms2$$. Für die wirkende Gewichtskraft ergibt sich also:
+    $$FG=m⋅a=1kg⋅3,69ms2=3,69N$$.
 
 </details>
 
