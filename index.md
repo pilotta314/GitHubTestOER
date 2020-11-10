@@ -1,8 +1,6 @@
-# 3.1.1 Definition und Messung der Kraft
-
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
-$$\alpha*F$$
+# 3.1.1 Definition und Messung der Kraft
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
@@ -18,7 +16,7 @@ In der Abbildung links ist eine Balkenwaage gezeigt. Die beiden Körper auf den 
 
 Diese Schwerkraft ist auch die Ursache für die Fallbeschleunigung. Jeder Körper erfährt eine Gewichtskraft. Diese Tatsache spürt jeder, der etwas trägt. Hält man zum Beispiel ein Kiste Sprudel, so spürt man, dass man dazu eine Kraft aufwenden muss. Man merkt, dass an der Kiste eine Kraft nach unten zieht. Das zeigt sich auch, wenn man sie loslässt. Sie fällt auf den Boden.
 
-`Für die Kraft $$F$$ bzw. $$\rightarrow F$$, die auf einen Körper der Masse m im Schwerefeld der Erde wirkt, gilt: $$F=m⋅g$$ bzw. $$→F=m⋅→g4$$`
+`Für die Kraft `$$F$$` bzw. `$$\rightarrow F$$`, die auf einen Körper der Masse m im Schwerefeld der Erde wirkt, gilt: `$$F=m⋅g$$` bzw. `$$→F=m⋅→g4$$`.`
 
 Hier steht $$→g$$ für die bekannte Erdbeschleunigung. Die Erdbeschleunigung hängt vom Ort ab. So erfährt ein Körper am Äquator eine andere beschleunigende Kraft als auf dem Mount Everest oder am Nordpol. Der Vektorpfeil zeigt an, dass Erdbeschleunigung und damit auch die Kraft eine Richtung besitzt.
 
