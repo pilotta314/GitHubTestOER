@@ -27,17 +27,17 @@ Hier steht `$$\vec{g}$$` für die bekannte Erdbeschleunigung. Die Erdbeschleunig
 >
 >Peter stellt sich auf der Erde auf seine Personenwaage. Die Anzeige seiner Waage zeigt $$70,0kg$$ an. Mit einer Weltraummission fliegt er auf den Mond und stellt sich dort erneut auf seine Waage. Welches Gewicht zeigt die Waage auf dem Mond an?
 >Die Fallbeschleunigung beträgt auf der Erde $$9,81\frac{m}{s^2}$$ und auf dem Mond $$1,62m\frac{m}{s^2}$$.
->Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit 1kg auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall
+>Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit $$1kg$$ auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall:
 >
 >$$
->F_{1kg,Erde}=1kg*9,81\frac{m}{s^2}=9,81N
->$$.
+F_{1kg,Erde}=1kg*9,81\frac{m}{s^2}=9,81N
+$$
 >
 >Jedoch ist die Skala so angelegt, dass der Nutzer direkt die Masse, also Kilogramm ablesen kann. Auf Peter wirkt auf der Erde zwar eine Gewichtskraft von
 >
 >$$
 F_{Peter,Erde}=70kg*9,81\frac{m}{s^2}=6871N
->$$
+$$
 >
 >die Waage zeigt aber 70kg an.
 >Auf dem Mond erfährt Peter wegen der geringeren Fallbeschleunigung eine Gewichtskraft von:
@@ -49,8 +49,8 @@ $$
 >Die Gewichtskraft auf dem Mond ist also wesentlich kleiner als auf der Erde. Die Waage zeigt bei dieser kleineren wirkenden Kraft auch einen geringeren Wert als auf der Erde an. Um den auf dem Mond angezeigten Wert der Masse zu erhalten, muss die Gewichtskraft auf dem Mond durch die Fallbeschleunigung der Erde geteilt werden, da die Waage auf diesen Wert kalibriert ist:
 >
 >$$
->m_{angezeigt,Mond}=\frac{113N}{9,81\frac{m}{s^2}}=11,5kg
->$$
+m_{angezeigt,Mond}=\frac{113N}{9,81\frac{m}{s^2}}=11,5kg
+$$
 
 Man muss also unterscheiden zwischen der Masse eines Körpers und der Gewichtskraft. Die Masse ist eine unveränderliche Größe, eine Eigenschaft des Körpers, während die Gewichtskraft, die ein Körper erfährt, davon abhängt, wo sich ein Körper befindet.
 
@@ -60,7 +60,7 @@ $$
 F_G=G*\frac{m_1*m_2}{r^2}
 $$
 
-mit: \
+mit:
 
 $$m_1,m_2$$:       	die sich anziehenden Massen; \
 $$r$$:             	der Abstand, in dem sich die Massen befinden; \
@@ -86,7 +86,9 @@ $$
 F=m*a
 $$
 
-oder in Vektorschreibweise $$\vec{F}=m*\vec{a}$$. Mit einer Kraft von $$F=1N$$ wird ein Körper der Masse $$m=1kg$$ mit der Beschleunigung $$a=1\frac{m}{s^2}$$ in einer Sekunde auf die Geschwindigkeit $$v=1\frac{m}{s}$$ beschleunigt.
+oder in Vektorschreibweise 
+$$\vec{F}=m*\vec{a}$$. \
+Mit einer Kraft von $$F=1N$$ wird ein Körper der Masse $$m=1kg$$ mit der Beschleunigung $$a=1\frac{m}{s^2}$$ in einer Sekunde auf die Geschwindigkeit $$v=1\frac{m}{s}$$ beschleunigt.
 
 ---
 ### Aufgabe 3.1.2
