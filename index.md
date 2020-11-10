@@ -29,31 +29,41 @@ Hier steht `$$\vec{g}$$` für die bekannte Erdbeschleunigung. Die Erdbeschleunig
 >Die Fallbeschleunigung beträgt auf der Erde $$9,81\frac{m}{s^2}$$ und auf dem Mond $$1,62m\frac{m}{s^2}$$.
 >Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit 1kg auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall
 >
->$$F_{1kg,Erde}=1kg*9,81\frac{m}{s^2}=9,81N$$.
+>$$
+>F_{1kg,Erde}=1kg*9,81\frac{m}{s^2}=9,81N
+>$$.
 >
 >Jedoch ist die Skala so angelegt, dass der Nutzer direkt die Masse, also Kilogramm ablesen kann. Auf Peter wirkt auf der Erde zwar eine Gewichtskraft von
 >
->$$F_{Peter,Erde}=70kg*9,81\frac{m}{s^2}=6871N$$,
+>$$
+F_{Peter,Erde}=70kg*9,81\frac{m}{s^2}=6871N
+>$$
 >
 >die Waage zeigt aber 70kg an.
 >Auf dem Mond erfährt Peter wegen der geringeren Fallbeschleunigung eine Gewichtskraft von:
 >
->$$F_{Peter,Mond}=70kg*1,62\frac{m}{s^2}=113N$$.
+>$$
+F_{Peter,Mond}=70kg*1,62\frac{m}{s^2}=113N
+$$
 >
 >Die Gewichtskraft auf dem Mond ist also wesentlich kleiner als auf der Erde. Die Waage zeigt bei dieser kleineren wirkenden Kraft auch einen geringeren Wert als auf der Erde an. Um den auf dem Mond angezeigten Wert der Masse zu erhalten, muss die Gewichtskraft auf dem Mond durch die Fallbeschleunigung der Erde geteilt werden, da die Waage auf diesen Wert kalibriert ist:
 >
->$$m_{angezeigt,Mond}=\frac{113N}{9,81\frac{m}{s^2}}=11,5kg$$.
+>$$
+>m_{angezeigt,Mond}=\frac{113N}{9,81\frac{m}{s^2}}=11,5kg
+>$$
 
 Man muss also unterscheiden zwischen der Masse eines Körpers und der Gewichtskraft. Die Masse ist eine unveränderliche Größe, eine Eigenschaft des Körpers, während die Gewichtskraft, die ein Körper erfährt, davon abhängt, wo sich ein Körper befindet.
 
 Allgemein wird die Anziehung zwischen zwei Körpern durch das von Isaac Newton entdeckte Gravitationsgesetz beschrieben. Dieses Gesetz besagt, dass sich zwei Körper anziehen. Für die anziehende Kraft gilt folgender Zusammenhang:
+
 $$
 F_G=G*\frac{m_1*m_2}{r^2}
 $$
-mit:
 
-$$m_1,m_2$$:       	die sich anziehenden Massen;
-$$r$$:             	der Abstand, in dem sich die Massen befinden;
+mit: \
+
+$$m_1,m_2$$:       	die sich anziehenden Massen; \
+$$r$$:             	der Abstand, in dem sich die Massen befinden; \
 $$G$$:             	Gravitationskonstante. Neben $$G$$ wir oft auch $$\gamma$$ verwendet.
 
 Die Kraft wird hier wesentlich von den Massen der beiden Körper beeinflusst. Je schwerer ein Körper ist, desto größer wird die Kraft. Ist ein Körper sehr schwer, wie zum Beispiel die Erde, wird die Kraft sehr groß und kann leicht gemessen werden. Der Abstand zwischen den beiden Körpern wirkt sich ebenfalls stark auf die anziehende Kraft aus. Je größer der Abstand ist, desto kleiner ist die Anziehung zwischen den Körpern. Verdoppelt sich der Abstand zwischen den Körpern, sinkt die Kraft auf ein Viertel des ursprünglichen Wertes. Wichtig ist, dass die Kraft auf beide Körper wirkt. Die Erde zieht den fallenden Apfel genauso stark an, wie der Apfel die Erde. Die Masse des Apfels ist aber wesentlich kleiner als die der Erde. Deshalb ist die anziehende Wirkung des Apfels auf die Erde nicht zu bemerken. Der Apfel fällt deshalb auf die Erde und nicht die Erde auf den Apfel.
