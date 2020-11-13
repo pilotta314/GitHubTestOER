@@ -2,7 +2,7 @@
 
 # 3.1.1 Definition und Messung der Kraft
 
-<iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+[Audiotest](./../docs/markdown_audio.mp3)
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
