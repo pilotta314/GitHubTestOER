@@ -42,9 +42,9 @@ end
 
 ## Backgorund coloring:
 
- Sample Info-Panel
+Sample Info-Panel
 
- **Achtung, wichtig!**
+**Achtung, wichtig!**
 
 `only in one line possible`
 
@@ -71,9 +71,9 @@ Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
 
 ## Schriftgröße
 
- Dieser Text ist riesig
+Dieser Text ist riesig
 
-####  Dieser Text ist winzig und geht über mehrere Zeile
+#### Dieser Text ist winzig und geht über mehrere Zeile
 
 ## Formeln
 
@@ -112,4 +112,3 @@ content 2
 {% endtab %}
 {% endtabs %}
 
-<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
