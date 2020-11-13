@@ -2,7 +2,7 @@
 
 # 3.1.1 Definition und Messung der Kraft
 
-![Audiotest](./../docs/markdown_video.mp4)
+![Audiotest](../docs/markdown_video.mp4)
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
