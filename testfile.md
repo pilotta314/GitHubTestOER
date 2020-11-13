@@ -1,12 +1,15 @@
 # Tests:
 
-Collapse:
+<details>
+  <summary markdown="span">Solution down here.</summary>
 
-Solution down here. Great, you found the solution!
+    Great, you found the solution!
+</details>
+
 
 ## Pictures
 
-![Markdown Logo](.gitbook/assets/markdown_logo.png)
+![Markdown Logo](./../images/markdown_logo.png)
 
 ![Definition der Kraft](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)
 
@@ -14,11 +17,21 @@ Solution down here. Great, you found the solution!
 
 [![Video mit Bild](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
 
-[![Markdown Logo](.gitbook/assets/markdown_logo%20%281%29.png)](https://github.com/pilotta314/GitHubTestOER/tree/d8b2ca62e46f80d399374f95dd39d733b89b14a1/media/markdown_video.mp4)
+<iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 
 ### Audio:
 
-![GitLab sample audio](.gitbook/assets/markdown_audio.mp3)
+![GitLab sample audio](./../images/markdown_audio.mp3)
+
+<iframe src="https://soundcloud.com/marthavanstraaten/martha-aufm-sonnendeck-fusion-festival-2016" frameborder="0" allowfullscreen="true"> </iframe>
+
+<figure>
+  <audio controls title="GitLab test audio.>
+      <source src="../images/markdown_audio.mp3" type="audio/mpeg">
+      Your browser does not support the audio element.
+  </audio>
+</figure>
+
 
 ## Table:
 
@@ -40,23 +53,6 @@ def hello
 end
 ```
 
-## Backgorund coloring:
-
-Sample Info-Panel
-
-**Achtung, wichtig!**
-
-`only in one line possible`
-
-```text
-multi
-lines
-```
-
-\[+green=correct+\]
-
-\[-red=false-\]
-
 ## Checkbox:
 
 * [x] Completed task
@@ -68,12 +64,6 @@ lines
 ## Links:
 
 Sample [Link](https://www.youtube.com/embed/enMumwvLAug)
-
-## Schriftgröße
-
-Dieser Text ist riesig
-
-#### Dieser Text ist winzig und geht über mehrere Zeile
 
 ## Formeln
 
@@ -102,13 +92,73 @@ x^2
    * sub-list
 5. Last one
 
-{% tabs %}
-{% tab title="Question" %}
-content 1
-{% endtab %}
+### Input Box
 
-{% tab title="Solution" %}
-content 2
-{% endtab %}
-{% endtabs %}
+<label for="uinput">$`g_Planet =`$</label>
+<input type="text" id="uinput" name="uinput">
+$`\frac{m}{s^2}`$
 
+<details>
+  <summary markdown="span">Erklärung</summary>
+
+    [Erklärung ...]
+</details>
+
+
+### Footnote:
+
+Some text[^1].
+
+Some other text[^2].
+
+The identifier in the square brackets does not have to be numeric[^my_footnote].
+
+[^1]: Some footnote.
+[^2]: Other footnote.
+[^my_footnote]: This also works fine.
+
+<sup>
+	<a id="anker1" title="Zur Erläuterung" href="#fn1">[1]</a>
+</sup>
+
+
+
+<ol>
+	<li id="fn1"><a href="#anker1">[1]</a> Der Fußnotentext …</li>
+	<li>…</li>
+</ol>
+
+
+
+
+### Coloring:
+
+<span style="background-color: #FFFF00">This text is highlighted in yellow.</span>
+
+Here is an example of <mark>highlighted text</mark> using the &lt;mark&gt; tag.
+
+<h2 style="color:red;">
+coloured text
+</h2>
+
+
+### Schriftgröße
+
+<h1> Dieser Text ist riesig</h1>
+
+<h3> Dieser Text ist mittelgroß</h3>
+
+<h6> Dieser Text ist winzig
+  <br>und geht über mehrere Zeilen
+</h6>
+
+
+<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+### H5P
+
+<iframe src="https://h5p.org/h5p/embed/1023720" width="1090" height="282" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/1023724" width="1090" height="244" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<iframe src="https://h5p.org/h5p/embed/1023715" width="1090" height="306" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
