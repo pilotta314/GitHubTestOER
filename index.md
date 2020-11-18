@@ -197,9 +197,9 @@ ___
 
 ``Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung →a des Körpers ist dabei der angreifenden Kraft proportional,``
 
-`$$
+$$
 \overrightarrow{F}=m \overrightarrow{a}
-$$,`
+$$,
 
 ``wobei die Proportionalitätskonstante in dieser Beziehung die träge Masse m des Körpers ist. Aus dieser Definition der Kraft ergibt sich auch eine Definition ihrer physikalischen Einheit, des Newtons: ``
 
