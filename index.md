@@ -161,7 +161,7 @@ Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich d
 
 ### Aufgabe 3.1.5
 
-Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur 3/4 Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $$g=9,81\frac{m}{s}2$$ gelten.
+Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur 3/4 Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $$g=9,81\frac{m}{s^2}$$ gelten.
 
 <label for="uinput">Please enter something.</label>
 <input type="text" id="uinput" name="uinput">
