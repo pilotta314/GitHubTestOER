@@ -161,7 +161,7 @@ Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich d
 
 ### Aufgabe 3.1.5
 
-Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur 3/4 Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $$g=9,81ms2$$ gelten.
+Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur 3/4 Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $$g=9,81\frac{m}{s}2$$ gelten.
 
 <label for="uinput">Please enter something.</label>
 <input type="text" id="uinput" name="uinput">
@@ -203,23 +203,23 @@ $$,`
 
 ``wobei die Proportionalitätskonstante in dieser Beziehung die träge Masse m des Körpers ist. Aus dieser Definition der Kraft ergibt sich auch eine Definition ihrer physikalischen Einheit, des Newtons: ``
 
-``1N (1 Newton) ist die Kraft, die benötigt wird, um einen Körper der Masse 1kg innerhalb von 1s auf die Geschwindigkeit 1ms zu beschleunigen. ``
+``1N (1 Newton) ist die Kraft, die benötigt wird, um einen Körper der Masse 1kg innerhalb von 1s auf die Geschwindigkeit $$1\frac{m}{s}$$ zu beschleunigen. ``
 
 Die physikalischen Größen Geschwindigkeit und Beschleunigung werden später auf der Seite 3.2.1 eingehend betrachtet.
 
 Das Newton ist keine SI-Basiseinheit, sondern eine abgeleitete SI-Einheit. Aufgrund der obigen Definition des Newtons ergibt sich als Umrechung in die SI-Basiseinheiten:
 
-1N=1kgms2.
+$$1N=1kg\frac{m}{s^2}$$.
 
 Hier finden Sie ein Beispielvideo zur ![Beschleunigung eines Autos](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4).
 
 >### Beispiel 3.1.6
 >
->Um ein Auto der Masse 1500kg ohne Reibung innerhalb von 10s „von 0 auf 100“ zu bringen, es also aus dem Stand auf eine Geschwindigkeit von 27,8ms zu beschleunigen, herrscht zwischen Auto und Fahrbahn eine Kraft von
+>Um ein Auto der Masse 1500kg ohne Reibung innerhalb von 10s „von 0 auf 100“ zu bringen, es also aus dem Stand auf eine Geschwindigkeit von $$27,8\frac{m}{s}$$ zu beschleunigen, herrscht zwischen Auto und Fahrbahn eine Kraft von
 >
->F=1500kg27,8ms10s=4170kgms2=4170N.
+>$$ F=1500kg\frac{27,8\frac{m}{s}}{10s}=4170\frac{kg m}{s^2}=4170N$$.
 
-Als Variablenzeichen der Kraft verwendet man F (engl. force) bzw. →F, falls auch die Richtung angegeben werden soll, in die die Kraft wirkt. Kräfte treten quasi in allen Bereichen der Physik auf. Mechanische Kräfte sind z.B. die Gewichtskraft, die Federkraft und die Reibungskraft.
+Als Variablenzeichen der Kraft verwendet man F (engl. force) bzw. $$\overrightarrow{F}$$, falls auch die Richtung angegeben werden soll, in die die Kraft wirkt. Kräfte treten quasi in allen Bereichen der Physik auf. Mechanische Kräfte sind z.B. die Gewichtskraft, die Federkraft und die Reibungskraft.
 
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4)*Video 29: Messung der Kraft*
 
@@ -229,7 +229,7 @@ Als Variablenzeichen der Kraft verwendet man F (engl. force) bzw. →F, falls au
 
 Oben wurde die Kraft durch ihre beschleunigende Wirkung definiert. Das Phänomen der Beschleunigung eignet sich aber nicht gut für die Messung von Kräften. Man benutzt daher meist die deformierende Wirkung der Kraft, um diese zu messen.
 
-``Fixiert man eine Feder an einem Ende und zieht am anderen Ende mit einer Kraft, so wird diese Feder gedehnt. Die Dehnung der Feder Δl=s ist dabei proportional zur Kraft F,``
+``Fixiert man eine Feder an einem Ende und zieht am anderen Ende mit einer Kraft, so wird diese Feder gedehnt. Die Dehnung der Feder $$\Delta l=s$$ ist dabei proportional zur Kraft F,``
 ````
 F=D s,
 ````
@@ -239,11 +239,11 @@ F=D s,
 
 >## Beispiel 3.1.7
 >
->Wie groß ist eine Kraft, wenn man mit ihr eine Feder, die eine Federkonstante von 400Nm besitzt, um 5cm dehnt?
+>Wie groß ist eine Kraft, wenn man mit ihr eine Feder, die eine Federkonstante von $$400\frac{N}{m}$$ besitzt, um 5cm dehnt?
 >
 >Die Kraft F ergibt sich zu
 >
->F=D s=400Nm⋅0,05m=20N.
+>$$F=D\cdot s=400\frac{N}{m}\cdot 0,05m=20N$$.
 
 ### Gewichtskraft und Masse (!)
 
@@ -255,13 +255,13 @@ In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt
 
 `Wiegt man einen Körper auf der Erdoberfläche, ist die eine Masse die Erde und die andere Masse der Körper, der gewogen werden soll. Man erhält folgende Beziehung:`
 
-`F=m g,`
+`$$F=m g$$,`
 
 `wobei m die Masse und g die Erdbeschleunigung ist.`
 
 Je nach dem Ort auf der Erdoberfläche, an dem man sich befindet, ist die Erdbeschleunigung leicht unterschiedlich. Sie hängt beispielsweise von der Höhe über dem Meeresspiegel (Abstand zum Erdmittelpunkt) und der geographischen Breite (Fliehkraft durch Erddrehung) ab. Als Mittelwert benutzt man
 
-g=9,81ms2.
+$$g=9,81\frac{m}{s^2}$$.
 
 ![Abbildung 13](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_6979A403.4x.png "Abbildung 13")
 
@@ -271,13 +271,13 @@ Manchmal führt man die Kraft auch über die Gewichtskraft ein: Auf einen Körpe
 
 ``Allgemein wird die Anziehung zwischen zwei Körpern durch das von Isaac Newton entdeckte Gravitationsgesetz beschrieben. Dieses Gesetz besagt, dass sich zwei Körper anziehen. Für die anziehende Kraft gilt folgender Zusammenhang:``
 
-``FG=G⋅m1⋅m2r2``
+``$$F_G=G\cdot \frac{m_1\cdot m_2}{r^2}$$``
 
 ``mit:``
 
-``m1,m2:       	die sich anziehenden Massen;``
+``$$m_1,m_2$$:       	die sich anziehenden Massen;``
 ``r:             	der Abstand, in dem sich die Massen befinden;``
-``G:             	Gravitationskonstante. Neben G wir oft auch γ verwendet.``
+``G:             	Gravitationskonstante. Neben G wir oft auch $$\gamma$$ verwendet.``
 
 Die Gravitationskraft zwischen Körpern wirkt über das Volumen der Körper verteilt. Für kugelsymmetrische Körper kann vereinfachend mit der obigen Ersatzkraft gerechnet werden, die im Schwerpunkt angreift. Zum Schwerpunkt siehe das Basiswissen auf Seite 3.1.2.
 
@@ -287,7 +287,7 @@ Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4)*Video 32: Beispiel Schokoladentafel (C)*
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen.
-Falls nicht anders angegeben, verwenden Sie g=9,81ms2 .
+Falls nicht anders angegeben, verwenden Sie $$g=9,81\frac{m}{s^2}$$ .
 
 ### Aufgabe 3.1.8
 
