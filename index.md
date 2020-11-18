@@ -16,7 +16,7 @@ In der Abbildung links ist eine Balkenwaage gezeigt. Die beiden Körper auf den 
 
 Diese Schwerkraft ist auch die Ursache für die Fallbeschleunigung. Jeder Körper erfährt eine Gewichtskraft. Diese Tatsache spürt jeder, der etwas trägt. Hält man zum Beispiel ein Kiste Sprudel, so spürt man, dass man dazu eine Kraft aufwenden muss. Man merkt, dass an der Kiste eine Kraft nach unten zieht. Das zeigt sich auch, wenn man sie loslässt. Sie fällt auf den Boden.
 
-`Für die Kraft `$$F$$` bzw. `$$\vec{F}$$`, die auf einen Körper der Masse `$$m$$` im Schwerefeld der Erde wirkt, gilt: `$$F=m \cdot g$$` bzw. `$$\vec{F}=m*\vec{g}$$`.`
+`Für die Kraft `$$F$$` bzw. `$$\vec{F}$$`, die auf einen Körper der Masse `$$m$$` im Schwerefeld der Erde wirkt, gilt: `$$F=m \cdot g$$` bzw. `$$\vec{F}=m\cdot \vec{g}$$`.`
 
 Hier steht `$$\vec{g}$$` für die bekannte Erdbeschleunigung. Die Erdbeschleunigung hängt vom Ort ab. So erfährt ein Körper am Äquator eine andere beschleunigende Kraft als auf dem Mount Everest oder am Nordpol. Der Vektorpfeil zeigt an, dass Erdbeschleunigung und damit auch die Kraft eine Richtung besitzt.
 
@@ -129,8 +129,8 @@ Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt $$3,69ms2$$.
   <summary markdown="span">Lösung</summary>
 
     Richtig ist A.
-    Die Masse ist unverändert $$1,00kg$$ und die wirkende Schwerebeschleunigung liegt bei $$3,69ms2$$. Für die wirkende Gewichtskraft ergibt sich also:
-    $$FG=m\cdot a=1kg\cdot 3,69ms2=3,69N$$.
+    Die Masse ist unverändert $$1,00kg$$ und die wirkende Schwerebeschleunigung liegt bei $$3,69\frac{m}{s^2}$$. Für die wirkende Gewichtskraft ergibt sich also:
+    $$FG=m\cdot a=1kg\cdot 3,69\frac{m}{s^2}=3,69N$$.
 
 </details>
 
@@ -255,7 +255,7 @@ In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt
 
 `Wiegt man einen Körper auf der Erdoberfläche, ist die eine Masse die Erde und die andere Masse der Körper, der gewogen werden soll. Man erhält folgende Beziehung:`
 
-`$$F=m g$$,`
+$$F=m g$$,
 
 `wobei m die Masse und g die Erdbeschleunigung ist.`
 
