@@ -2,8 +2,6 @@
 
 # 3.1.1 Definition und Messung der Kraft
 
-![Audiotest](./../docs/markdown_video.mp4)
-
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
 Eine Eigenschaft, die jeden Körper kennzeichnet, ist seine Masse. Schon seit langer Zeit werden Massen bestimmt. Mit Hilfe von Balkenwaagen konnten die Ägypter vor mehr als 5000 Jahren Massen vergleichen und unbekannte Massen bestimmen. Sind zwei Massen gleich groß, ist eine Balkenwaage bei einer Messung im Gleichgewicht. Ist die Masse auf einer Seite größer, bewegt sich diese Seite nach unten. Dieses Verhalten ist unabhängig davon, wo die Messung durchgeführt wird. Eine Anordnung, die auf der Erde im Gleichgewicht ist, wäre sogar auf dem Mond im Gleichgewicht.
@@ -22,7 +20,7 @@ Diese Schwerkraft ist auch die Ursache für die Fallbeschleunigung. Jeder Körpe
 
 Hier steht `$$\vec{g}$$` für die bekannte Erdbeschleunigung. Die Erdbeschleunigung hängt vom Ort ab. So erfährt ein Körper am Äquator eine andere beschleunigende Kraft als auf dem Mount Everest oder am Nordpol. Der Vektorpfeil zeigt an, dass Erdbeschleunigung und damit auch die Kraft eine Richtung besitzt.
 
-`Die Einheit der Kraft `$$F$$` ist das Newton: `$$[F]=N$$`. Für das Newton gilt: `$$1N=1kg*\frac{m}{s^2}$$`.`
+`Die Einheit der Kraft `$$F$$` ist das Newton: `$$[F]=N$$`. Für das Newton gilt: `$$1N=1kg\cdot\frac{m}{s^2}$$`.`
 
 
 > ## Beispiel 3.1.1
@@ -32,20 +30,20 @@ Hier steht `$$\vec{g}$$` für die bekannte Erdbeschleunigung. Die Erdbeschleunig
 >Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit $$1kg$$ auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall:
 >
 >$$
-F_{1kg,Erde}=1kg*9,81\frac{m}{s^2}=9,81N
+F_{1kg,Erde}=1kg\cdot 9,81\frac{m}{s^2}=9,81N
 $$
 >
 >Jedoch ist die Skala so angelegt, dass der Nutzer direkt die Masse, also Kilogramm ablesen kann. Auf Peter wirkt auf der Erde zwar eine Gewichtskraft von
 >
 >$$
-F_{Peter,Erde}=70kg*9,81\frac{m}{s^2}=6871N
+F_{Peter,Erde}=70kg\cdot 9,81\frac{m}{s^2}=6871N
 $$
 >
 >die Waage zeigt aber 70kg an.
 >Auf dem Mond erfährt Peter wegen der geringeren Fallbeschleunigung eine Gewichtskraft von:
 >
 >$$
-F_{Peter,Mond}=70kg*1,62\frac{m}{s^2}=113N
+F_{Peter,Mond}=70kg\cdot 1,62\frac{m}{s^2}=113N
 $$
 >
 >Die Gewichtskraft auf dem Mond ist also wesentlich kleiner als auf der Erde. Die Waage zeigt bei dieser kleineren wirkenden Kraft auch einen geringeren Wert als auf der Erde an. Um den auf dem Mond angezeigten Wert der Masse zu erhalten, muss die Gewichtskraft auf dem Mond durch die Fallbeschleunigung der Erde geteilt werden, da die Waage auf diesen Wert kalibriert ist:
@@ -59,7 +57,7 @@ Man muss also unterscheiden zwischen der Masse eines Körpers und der Gewichtskr
 Allgemein wird die Anziehung zwischen zwei Körpern durch das von Isaac Newton entdeckte Gravitationsgesetz beschrieben. Dieses Gesetz besagt, dass sich zwei Körper anziehen. Für die anziehende Kraft gilt folgender Zusammenhang:
 
 $$
-F_G=G*\frac{m_1*m_2}{r^2}
+F_G=G\cdot\frac{m_1\cdot m_2}{r^2}
 $$
 
 mit:
@@ -73,9 +71,9 @@ Der Einfachheit halber werden die Größen Erdmasse, Gravitationskonstante und E
 
 |         | Masse $$m$$    | Radius $$r$$   | Gravitationskonstante $$G$$ | Fallbeschleunigung $$g$$ | Tabellenwert |
 |---------|----------------|----------------|-------------------------|----------------------|--------------|
-| Erde    | $$5,974*10^{24}kg$$       | $$6371 km$$  |  $$6,672*10^{-11}\frac{N*m^2}{kg^2}$$ | $$\approx 9,820\frac{m}{s^2}$$ |$$9,81\frac{m}{s^2}$$ |
-| Mond    | $$7,349*10^{22}kg$$       | $$1738 km$$  | 	$$6,672*10^{-11}\frac{N*m^2}{kg^2}$$ |$$\approx 1,622\frac{m}{s^2}$$  | $$1,62\frac{m}{s^2}$$|
-| Jupiter |	$$\approx 318*Erdmasse$$	| $$\approx 12* Erdradius$$ |	$$6,672*10^{-11}\frac{N*m^2}{kg^2}$$ 	|$$\approx 21,69\frac{m}{s^2}$$  | $$23,1\frac{m}{s^2}$$ |
+| Erde    | $$5,974\cdot 10^{24}kg$$       | $$6371 km$$  |  $$6,672\cdot 10^{-11}\frac{N\cdot m^2}{kg^2}$$ | $$\approx 9,820\frac{m}{s^2}$$ |$$9,81\frac{m}{s^2}$$ |
+| Mond    | $$7,349\cdot 10^{22}kg$$       | $$1738 km$$  | 	$$6,672\cdot 10^{-11}\frac{N\cdot m^2}{kg^2}$$ |$$\approx 1,622\frac{m}{s^2}$$  | $$1,62\frac{m}{s^2}$$|
+| Jupiter |	$$\approx 318\cdot Erdmasse$$	| $$\approx 12\cdot Erdradius$$ |	$$6,672\cdot 10^{-11}\frac{N\cdot m^2}{kg^2}$$ 	|$$\approx 21,69\frac{m}{s^2}$$  | $$23,1\frac{m}{s^2}$$ |
 
 
 
@@ -85,11 +83,11 @@ Zwei Kräfte sind vom Betrag gleich groß, wenn sie einen Körper gleich stark v
 Allgemein gilt für eine Kraft das von Newton gefundene Grundgesetz der Dynamik:
 
 $$
-F=m*a
+F=m\cdot a
 $$
 
 oder in Vektorschreibweise 
-$$\vec{F}=m*\vec{a}$$. \
+$$\vec{F}=m \cdot \vec{a}$$. \
 Mit einer Kraft von $$F=1N$$ wird ein Körper der Masse $$m=1kg$$ mit der Beschleunigung $$a=1\frac{m}{s^2}$$ in einer Sekunde auf die Geschwindigkeit $$v=1\frac{m}{s}$$ beschleunigt.
 
 ---
@@ -119,20 +117,20 @@ __B__  Der Arm mit dem kleineren Körper bewegt sich nach unten.
 Welche Masse $$m$$ hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $$FG$$ erfährt es?
 Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt $$3,69ms2$$.
 
- **A**  m=3,69kg      und      FG=3,69N
+ **A**  $$m=3,69kg $$     und      $$F_G=3,69N$$
 
- **B**  m=1,00kg      und      FG=3,69N
+ **B**  $$m=1,00kg $$     und      $$F_G=3,69N$$
 
- **C**  m=3,69kg      und      FG=36,2N
+ **C**  $$m=3,69kg$$      und      $$F_G=36,2N$$
 
- **D**  m=3,69kg      und      FG=13,6N
+ **D**  $$m=3,69kg $$    und      $$F_G=13,6N$$
 
 <details>
   <summary markdown="span">Lösung</summary>
 
     Richtig ist A.
     Die Masse ist unverändert $$1,00kg$$ und die wirkende Schwerebeschleunigung liegt bei $$3,69ms2$$. Für die wirkende Gewichtskraft ergibt sich also:
-    $$FG=m⋅a=1kg⋅3,69ms2=3,69N$$.
+    $$FG=m\cdot a=1kg\cdot 3,69ms2=3,69N$$.
 
 </details>
 
@@ -143,13 +141,13 @@ Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt $$3,69ms2$$.
 Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich dort auf die Waage. Wo zeigt die Waage den höchsten Wert an?
 
 
-**A**  auf der Erde (gE=9,81ms2 )
+**A**  auf der Erde ($$g_E=9,81\frac{m}{s^2}$$ )
 
-**B** auf dem Mars (gM=3,69ms2 )
+**B** auf dem Mars ($$g_M=3,69\frac{m}{s^2}$$ )
 
-**C** auf dem Neptun (gN=11,00ms2 )
+**C** auf dem Neptun ($$g_N=11,00\frac{m}{s^2}$$ )
 
-**D** auf dem Jupiter (gJ=23,12ms2 )
+**D** auf dem Jupiter ($$g_J=23,12\frac{m}{s^2}$$ )
 
 <details>
   <summary markdown="span">Lösung</summary>
@@ -163,7 +161,7 @@ Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich d
 
 ### Aufgabe 3.1.5
 
-Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur 3/4 Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll g=9,81ms2 gelten.
+Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur 3/4 Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $$g=9,81ms2$$ gelten.
 
 <label for="uinput">Please enter something.</label>
 <input type="text" id="uinput" name="uinput">
@@ -171,8 +169,8 @@ Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage
 <details>
   <summary markdown="span">Lösung</summary>
 
-    Es gilt auf der Erde FErde=m⋅gErde und auf dem unbekannten Planeten FPlanet=m⋅gPlanet. Gleichzeitig ist bekannt, dass FPlanet=34⋅FErde gilt. Es ergibt sich also:
-    m⋅gPlanet=34⋅m⋅gErde⇒gPlanet=34⋅gErde=34⋅9,81ms2=7,36ms2.
+    Es gilt auf der Erde FErde=m⋅gErde und auf dem unbekannten Planeten $$F_{Planet}=m\cdot g_{Planet}$$. Gleichzeitig ist bekannt, dass $$F_{Planet}=34\cdot F_{Erde}$$ gilt. Es ergibt sich also:
+    $$m\cdot g_{Planet}=34\cdot m\cdot g_Erde\Rightarrow g_{Planet}=34\cdot g_{Erde}=34\dot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$$.
 
 </details>
 
@@ -199,7 +197,9 @@ ___
 
 ``Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung →a des Körpers ist dabei der angreifenden Kraft proportional,``
 
-`→F=m →a,`
+`$$
+\overright{F}=m \overright{a}
+$$,`
 
 ``wobei die Proportionalitätskonstante in dieser Beziehung die träge Masse m des Körpers ist. Aus dieser Definition der Kraft ergibt sich auch eine Definition ihrer physikalischen Einheit, des Newtons: ``
 
