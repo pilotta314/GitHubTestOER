@@ -6,7 +6,7 @@ Eine Eigenschaft, die jeden Körper kennzeichnet, ist seine Masse. Schon seit la
 
 Die Masse ist eine Eigenschaft eines Körpers. Bringt man einen Körper zum Beispiel von der Erde auf den Mond, bleibt seine Masse erhalten. Die Einheit der Masse ist: $$[m]=kg$$ .
 
-![Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht \(C\)](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png)\_\_
+![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png "Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht")
 
 _Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht_
 
