@@ -184,11 +184,6 @@ ___
 
 
 
-![](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
-
-[![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
-
-
 Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung →a des Körpers ist dabei der angreifenden Kraft proportional,
 
 $$
@@ -208,6 +203,7 @@ $$1N=1kg\frac{m}{s^2}$$.
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 Hier finden Sie ein Beispielvideo zur ![Beschleunigung eines Autos](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4).
 
 >### Beispiel 3.1.6
