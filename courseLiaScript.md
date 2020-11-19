@@ -141,7 +141,7 @@ Die physikalischen Größen Geschwindigkeit und Beschleunigung werden später au
 
 Das Newton ist keine SI-Basiseinheit, sondern eine abgeleitete SI-Einheit. Aufgrund der obigen Definition des Newtons ergibt sich als Umrechung in die SI-Basiseinheiten:
 $$1N=1kg\cdot\frac{m}{s^2}.$$
-!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4 "Beispielvideo zur Beschleunigung eines Autos").
+!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4).
 
 >**Beispiel 3.1.6**
 >
@@ -151,11 +151,11 @@ $$1N=1kg\cdot\frac{m}{s^2}.$$
 
 Als Variablenzeichen der Kraft verwendet man $F$ (engl. force) bzw. $\overrightarrow{F}$, falls auch die Richtung angegeben werden soll, in die die Kraft wirkt. Kräfte treten quasi in allen Bereichen der Physik auf. Mechanische Kräfte sind z.B. die Gewichtskraft, die Federkraft und die Reibungskraft.
 
-!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4 "Video: Messung der Kraft")
+!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4 "Video: Messung der Kraft")
 
 ## Messung der Kraft (!)
 
-![Abbildung](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png "")
+![Abbildung](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png)
 
 Oben wurde die Kraft durch ihre beschleunigende Wirkung definiert. Das Phänomen der Beschleunigung eignet sich aber nicht gut für die Messung von Kräften. Man benutzt daher meist die deformierende Wirkung der Kraft, um diese zu messen.
 
@@ -163,7 +163,7 @@ Fixiert man eine Feder an einem Ende und zieht am anderen Ende mit einer Kraft, 
 $$F=D\cdot s,$$
 wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeigenschaft der Feder ist.
 
-!?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4 "Video: Beispiel Federdehnung")
+!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4 "Video: Beispiel Federdehnung")
 
 > Beispiel 3.1.7
 >
@@ -175,7 +175,7 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 
 ### Gewichtskraft und Masse (!)
 
-!?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4) "Video: Gewichtskraft und Masse")
+!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4)
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
 
