@@ -8,8 +8,6 @@ Die Masse ist eine Eigenschaft eines Körpers. Bringt man einen Körper zum Beis
 
 ![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/Physikkurs/kraefte_definitionmessung/images/WaageGGundnGG.png "Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht")
 
-_Abbildung 10: Waage im Gleichgewicht und im Nichtgleichgewicht_
-
 In der Abbildung oben ist eine Balkenwaage gezeigt. Die beiden Körper auf den Schalen sind gleich schwer und die Waage ist im Gleichgewicht. Legt man jetzt auf einer Seite einen zweiten Körper dazu, bewegt sich diese Seite nach unten. Dies ist im Bild rechts gezeigt. Der Grund für diesen Vorgang liegt darin, dass sich Körper gegenseitig anziehen. Diese Anziehung hängt von der Masse ab. Hier zieht die Erde die Waage an und damit auch die beiden Waagschalen. Die Waagschale mit zwei Massen wird stärker angezogen.
 
 Unter der Gewichtskraft versteht man die Kraft, mit der ein Körper der Masse $$m$$ im Schwerefeld der Erde angezogen wird. Diese Kraft ist immer in Richtung zum Erdmittelpunkt gerichtet.
@@ -68,7 +66,7 @@ $$F=m \cdot a$$
 
 oder in Vektorschreibweise $$\overrightarrow{F}=m \cdot \overrightarrow{a}$$. Mit einer Kraft von $$F=1N$$ wird ein Körper der Masse $$m=1kg$$ mit der Beschleunigung $$a=1\frac{m}{s^2}$$ in einer Sekunde auf die Geschwindigkeit $$v=1{m}{s}$$ beschleunigt.
 
-### Aufgabe 3.1.2
+**Aufgabe 3.1.2**
 
 Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwaage gelegt. Die Waage befindet sich im Gleichgewicht. Was passiert, wenn Sie dieselbe Anordnung auf den Mond bringen?
 
@@ -82,7 +80,7 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 
 Lösung Richtig ist C. Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
 
-### Aufgabe 3.1.3
+**Aufgabe 3.1.3**
 
 Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $$F_G$$ erfährt es? Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt $$3,69\frac{m}{s^2}$$.
 
@@ -96,7 +94,7 @@ Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $$F_G$$ 
 
 Lösung Richtig ist A. Die Masse ist unverändert $$1,00kg$$ und die wirkende Schwerebeschleunigung liegt bei $$3,69\frac{m}{s^2}$$. Für die wirkende Gewichtskraft ergibt sich also: $$F_G=m\cdot a=1kg\cdot 3,69\frac{m}{s^2}=3,69N$$.
 
-### Aufgabe 3.1.4
+**Aufgabe 3.1.4**
 
 Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich dort auf die Waage. Wo zeigt die Waage den höchsten Wert an?
 
@@ -110,7 +108,7 @@ Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich d
 
 Lösung Richtig ist D. Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größten Wert. Ihre Masse bleibt aber trotzdem unverändert.
 
-### Aufgabe 3.1.5
+**Aufgabe 3.1.5
 
 Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur $$\frac{3}{4}$$ Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $$g=9,81\frac{m}{s^2}$$gelten.
 
@@ -118,7 +116,7 @@ Please enter something.
 
 Lösung Es gilt auf der Erde $$F_{Erde}=m\cdot g_{Erde}$$ und auf dem unbekannten Planeten $$F_{Planet}=m\cdot g_{Planet}$$. Gleichzeitig ist bekannt, dass $$F_{Planet}=34\cdot F_{Erde}$$ gilt. Es ergibt sich also: $$m\cdot g_{Planet}=34\cdot m\cdot g_{Erde} \Rightarrow g_{Planet}=34\cdot g_{Erde}=34\cdot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$$.
 
-## Definition der Kraft \(!\)
+## Definition der Kraft (!)
 
 **Einige Versuche, ein Video einzubetten:**
 
