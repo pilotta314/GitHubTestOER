@@ -182,7 +182,7 @@ ___
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Video:*Definition der Kraft*
+Video: *Definition der Kraft*
 
 Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung →a des Körpers ist dabei der angreifenden Kraft proportional,
 
@@ -204,7 +204,7 @@ $$1N=1kg\frac{m}{s^2}$$.
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Video:*Beschleunigung eines Autos*
+Video: *Beschleunigung eines Autos*
 
 >### Beispiel 3.1.6
 >
@@ -220,7 +220,7 @@ Als Variablenzeichen der Kraft verwendet man F (engl. force) bzw. $$\overrightar
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Video:*Messung der Kraft*
+Video: *Messung der Kraft*
 
 ## Messung der Kraft (!)
 
@@ -238,7 +238,7 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Video:*Beispiel Fehderdehnung*
+Video: *Beispiel Fehderdehnung*
 
 >## Beispiel 3.1.7
 >
@@ -254,7 +254,7 @@ Video:*Beispiel Fehderdehnung*
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Video:*Gewichtskraft und Masse*
+Video: *Gewichtskraft und Masse*
 
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
@@ -296,7 +296,7 @@ Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-Video:*Beispiel Schokoladentafel*
+Video: *Beispiel Schokoladentafel*
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen.
 Falls nicht anders angegeben, verwenden Sie $$g=9,81\frac{m}{s^2}$$ .
