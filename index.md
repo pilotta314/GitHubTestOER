@@ -269,15 +269,15 @@ Manchmal führt man die Kraft auch über die Gewichtskraft ein: Auf einen Körpe
 
 ### Newtonsches Gravitationsgesetz (!)
 
-``Allgemein wird die Anziehung zwischen zwei Körpern durch das von Isaac Newton entdeckte Gravitationsgesetz beschrieben. Dieses Gesetz besagt, dass sich zwei Körper anziehen. Für die anziehende Kraft gilt folgender Zusammenhang:``
+Allgemein wird die Anziehung zwischen zwei Körpern durch das von Isaac Newton entdeckte Gravitationsgesetz beschrieben. Dieses Gesetz besagt, dass sich zwei Körper anziehen. Für die anziehende Kraft gilt folgender Zusammenhang:
 
-``$$F_G=G\cdot \frac{m_1\cdot m_2}{r^2}$$``
+$$F_G=G\cdot \frac{m_1\cdot m_2}{r^2}$$
 
-``mit:``
+mit:
 
-``$$m_1,m_2$$:       	die sich anziehenden Massen;``
-``r:             	der Abstand, in dem sich die Massen befinden;``
-``G:             	Gravitationskonstante. Neben G wir oft auch $$\gamma$$ verwendet.``
+$$m_1,m_2$$:       	die sich anziehenden Massen;
+$$r$$:             	der Abstand, in dem sich die Massen befinden;
+$$G$$:             	Gravitationskonstante. Neben $$G$$ wir oft auch $$\gamma$$ verwendet.
 
 Die Gravitationskraft zwischen Körpern wirkt über das Volumen der Körper verteilt. Für kugelsymmetrische Körper kann vereinfachend mit der obigen Ersatzkraft gerechnet werden, die im Schwerpunkt angreift. Zum Schwerpunkt siehe das Basiswissen auf Seite 3.1.2.
 
