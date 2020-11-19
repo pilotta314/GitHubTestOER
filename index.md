@@ -217,6 +217,10 @@ Als Variablenzeichen der Kraft verwendet man F (engl. force) bzw. $$\overrightar
 
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4)*Video 29: Messung der Kraft*
 
+<figure class="video_container">
+  <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 ## Messung der Kraft (!)
 
 ![Abbildung 11](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png "Abbildung 11")
@@ -289,6 +293,7 @@ Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
+
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4)*Video 32: Beispiel Schokoladentafel (C)*
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen.
