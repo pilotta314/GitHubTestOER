@@ -127,9 +127,7 @@ Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten
 
 ## Definition der Kraft (!)
 
-**Einige Versuche, ein Video einzubetten:**
-
-!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4 "Video: Definition der Kraft)
+!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4 "Video: Definition der Kraft")
 
 Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung $\overrightarrow{a}$ des Körpers ist dabei der angreifenden Kraft proportional,
 $$\overrightarrow{F}=m\cdot \overrightarrow{a},$$
@@ -175,7 +173,7 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 
 ### Gewichtskraft und Masse (!)
 
-!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4)
+!?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4)
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
 
