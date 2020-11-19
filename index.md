@@ -181,7 +181,7 @@ ___
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+Video:*Definition der Kraft*
 
 
 Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung →a des Körpers ist dabei der angreifenden Kraft proportional,
@@ -203,7 +203,7 @@ $$1N=1kg\frac{m}{s^2}$$.
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+Video:*Beschleunigung eines Autos
 Hier finden Sie ein Beispielvideo zur ![Beschleunigung eines Autos](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4).
 
 >### Beispiel 3.1.6
@@ -219,7 +219,7 @@ Als Variablenzeichen der Kraft verwendet man F (engl. force) bzw. $$\overrightar
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+Video:*Messung der Kraft*
 ## Messung der Kraft (!)
 
 ![Abbildung 11](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png "Abbildung 11")
@@ -235,7 +235,7 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+Video:*Beispiel Fehderdehnung*
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4)*Video 30: Beispiel Federdehnung (C)*
 
 >## Beispiel 3.1.7
@@ -251,7 +251,7 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+Video:*Gewichtskraft und Masse*
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4)*Video 31: Gewichtskraft und Masse (C)*
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
@@ -292,7 +292,7 @@ Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
 <figure class="video_container">
   <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
+Video:*Beispiel Schokoladentafel*
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4)*Video 32: Beispiel Schokoladentafel (C)*
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen.
