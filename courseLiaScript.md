@@ -229,7 +229,7 @@ Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze 
 # Tests:
 ## Collapse-Panel
 <details>
-  <summary markdown="span">Solution down here.</summary>
+  <summary markdown="span"></summary>
 
     Great, you found the solution!
 </details>
