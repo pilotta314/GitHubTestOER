@@ -20,7 +20,7 @@ Hier steht $\overrightarrow{g}$ für die bekannte Erdbeschleunigung. Die Erdbesc
 
 Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg \cdot \frac{m}{s^2}$.
 
-> ## Beispiel 3.1. 1
+> **Beispiel 3.1.1**
 >
 > Peter stellt sich auf der Erde auf seine Personenwaage. Die Anzeige seiner Waage zeigt $70,00 kg$ an. Mit einer Weltraummission fliegt er auf den Mond und stellt sich dort erneut auf seine Waage. Welches Gewicht zeigt die Waage auf dem Mond an? Die Fallbeschleunigung beträgt auf der Erde $9,81 \frac{m}{s^2}$ und auf dem Mond $1,62 \frac{m}{s^2}$. Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit $1 kg$ auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall
 >
@@ -131,11 +131,7 @@ Lösung Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten 
 
 **Einige Versuche, ein Video einzubetten:**
 
-\[![Alt text](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)\]
-
-![](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
-
-[![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4)
+!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4 "Video: Definition der Kraft)
 
 Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung $\overrightarrow{a}$ des Körpers ist dabei der angreifenden Kraft proportional,
 $$\overrightarrow{F}=m\cdot \overrightarrow{a},$$
