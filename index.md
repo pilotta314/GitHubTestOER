@@ -205,6 +205,9 @@ Das Newton ist keine SI-Basiseinheit, sondern eine abgeleitete SI-Einheit. Aufgr
 
 $$1N=1kg\frac{m}{s^2}$$.
 
+<figure class="video_container">
+  <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 Hier finden Sie ein Beispielvideo zur ![Beschleunigung eines Autos](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4).
 
 >### Beispiel 3.1.6
