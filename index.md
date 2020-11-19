@@ -229,6 +229,10 @@ F=D s,
 $$
 wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeigenschaft der Feder ist. 
 
+<figure class="video_container">
+  <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4)*Video 30: Beispiel Federdehnung (C)*
 
 >## Beispiel 3.1.7
@@ -241,6 +245,9 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 
 ### Gewichtskraft und Masse (!)
 
+<figure class="video_container">
+  <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4)*Video 31: Gewichtskraft und Masse (C)*
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
@@ -278,6 +285,9 @@ Die Gravitationskraft zwischen Körpern wirkt über das Volumen der Körper vert
 Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
 [![dieser Seite](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/modstart.html#LABEL_kraefte_definitionmessung_BASICS.jpg)](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/modstart.html#LABEL_kraefte_definitionmessung_BASICS).
 
+<figure class="video_container">
+  <iframe src="https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 [![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4)*Video 32: Beispiel Schokoladentafel (C)*
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen.
