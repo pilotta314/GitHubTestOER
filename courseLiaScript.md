@@ -78,11 +78,11 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 
 **D** Um das voraussagen zu können, braucht man mehr Informationen.
 
-<details>
+<Lösung>
   <summary markdown="span">Solution down here.</summary>
 
     Great, you found the solution!
-</details>
+</Lösung>
 
 <details>
   <summary markdown="span">Solution down here.</summary>
