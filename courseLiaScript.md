@@ -79,7 +79,7 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 **D** Um das voraussagen zu können, braucht man mehr Informationen.
 
 <details>
-  <summary markdown="span">Lösung</summary>
+  <summary markdown="span"></summary>
   Richtig ist C. Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der     gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
 </details>
 
@@ -96,7 +96,10 @@ Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $F_G$ er
 
 **D** $m=3,69kg$ und $F_G=13,6N$
 
-Lösung Richtig ist A. Die Masse ist unverändert $1,00kg$ und die wirkende Schwerebeschleunigung liegt bei $3,69\frac{m}{s^2}$. Für die wirkende Gewichtskraft ergibt sich also: $F_G=m\cdot a=1kg\cdot 3,69\frac{m}{s^2}=3,69N$.
+<details>
+  >summary markdown="span"></summary>
+  Richtig ist A. Die Masse ist unverändert $1,00kg$ und die wirkende Schwerebeschleunigung liegt bei $3,69\frac{m}{s^2}$. Für die wirkende Gewichtskraft ergibt sich also: $F_G=m\cdot a=1kg\cdot 3,69\frac{m}{s^2}=3,69N$.
+  </details>
 
 **Aufgabe 3.1.4**
 
@@ -110,7 +113,9 @@ Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich d
 
 **D** auf dem Jupiter \( $g_J=23,12\frac{m}{s^2}$\)
 
-Lösung Richtig ist D. Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größten Wert. Ihre Masse bleibt aber trotzdem unverändert.
+<details>
+  Richtig ist D. Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größten Wert. Ihre Masse bleibt aber trotzdem unverändert.
+</details>
 
 **Aufgabe 3.1.5
 
@@ -118,7 +123,9 @@ Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage
 
 Please enter something.
 
+<details>
 Lösung Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten $F_{Planet}=m\cdot g_{Planet}$. Gleichzeitig ist bekannt, dass $F_{Planet}=34\cdot F_{Erde}$ gilt. Es ergibt sich also: $m\cdot g_{Planet}=34\cdot m\cdot g_{Erde} \Rightarrow g_{Planet}=34\cdot g_{Erde}=34\cdot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$.
+</details>
 
 ## Definition der Kraft (!)
 
