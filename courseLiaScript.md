@@ -80,6 +80,12 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 
 <details>
   <summary markdown="span">Solution down here.</summary>
+
+    Great, you found the solution!
+</details>
+
+<details>
+  <summary markdown="span">Solution down here.</summary>
   Lösung Richtig ist C. Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der     gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
 </details>
 
