@@ -218,3 +218,44 @@ Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise \(Exponentialschreibweise\) runden Sie auf zwei Nachkommastellen. Falls nicht anders angegeben, verwenden Sie g=9,81ms2 .
 
+# Tests:
+## Collapse-Panel
+<details>
+  <summary markdown="span">Solution down here.</summary>
+
+    Great, you found the solution!
+</details>
+
+## Checkbox:
+
+* [x] Completed task
+* [ ] Incomplete task
+  * [ ] Sub-task 1
+  * [x] Sub-task 2
+  * [ ] Sub-task 3
+  
+## Coloring:
+
+<span style="background-color: #FFFF00">This text is highlighted in yellow.</span>
+
+Here is an example of <mark>highlighted text</mark> using the &lt;mark&gt; tag.
+
+<h2 style="color:red;">
+coloured text
+</h2>
+
+
+## Schriftgröße
+
+<h1> Dieser Text ist riesig</h1>
+
+<h3> Dieser Text ist mittelgroß</h3>
+
+<h6> Dieser Text ist winzig
+  <br>und geht über mehrere Zeilen
+  
+## H5P
+
+<iframe src="https://h5p.org/h5p/embed/1023720" width="1090" height="282" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+</h6>
