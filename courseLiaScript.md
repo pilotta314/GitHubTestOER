@@ -79,7 +79,6 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 **D** Um das voraussagen zu können, braucht man mehr Informationen.
 
 <details>
-  <summary markdown="span"></summary>
   Richtig ist C. Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der     gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
 </details>
 
@@ -97,7 +96,6 @@ Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $F_G$ er
 **D** $m=3,69kg$ und $F_G=13,6N$
 
 <details>
-  >summary markdown="span"></summary>
   Richtig ist A. Die Masse ist unverändert $1,00kg$ und die wirkende Schwerebeschleunigung liegt bei $3,69\frac{m}{s^2}$. Für die wirkende Gewichtskraft ergibt sich also: $F_G=m\cdot a=1kg\cdot 3,69\frac{m}{s^2}=3,69N$.
   </details>
 
@@ -124,7 +122,7 @@ Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage
 Please enter something.
 
 <details>
-Lösung Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten $F_{Planet}=m\cdot g_{Planet}$. Gleichzeitig ist bekannt, dass $F_{Planet}=34\cdot F_{Erde}$ gilt. Es ergibt sich also: $m\cdot g_{Planet}=34\cdot m\cdot g_{Erde} \Rightarrow g_{Planet}=34\cdot g_{Erde}=34\cdot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$.
+Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten $F_{Planet}=m\cdot g_{Planet}$. Gleichzeitig ist bekannt, dass $F_{Planet}=34\cdot F_{Erde}$ gilt. Es ergibt sich also: $m\cdot g_{Planet}=34\cdot m\cdot g_{Erde} \Rightarrow g_{Planet}=34\cdot g_{Erde}=34\cdot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$.
 </details>
 
 ## Definition der Kraft (!)
@@ -143,9 +141,9 @@ Die physikalischen Größen Geschwindigkeit und Beschleunigung werden später au
 
 Das Newton ist keine SI-Basiseinheit, sondern eine abgeleitete SI-Einheit. Aufgrund der obigen Definition des Newtons ergibt sich als Umrechung in die SI-Basiseinheiten:
 $$1N=1kg\cdot\frac{m}{s^2}.$$
-Hier finden Sie ein Beispielvideo zur ![Beschleunigung eines Autos](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4).
+!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4 "Beispielvideo zur Beschleunigung eines Autos").
 
-> ### Beispiel 3.1.6
+>**Beispiel 3.1.6**
 >
 > Um ein Auto der Masse 1500kg ohne Reibung innerhalb von 10s „von 0 auf 100“ zu bringen, es also aus dem Stand auf eine Geschwindigkeit von $27,8\frac{m}{s}$ zu beschleunigen, herrscht zwischen Auto und Fahrbahn eine Kraft von
 >
@@ -153,11 +151,11 @@ Hier finden Sie ein Beispielvideo zur ![Beschleunigung eines Autos](https://medi
 
 Als Variablenzeichen der Kraft verwendet man $F$ (engl. force) bzw. $\overrightarrow{F}$, falls auch die Richtung angegeben werden soll, in die die Kraft wirkt. Kräfte treten quasi in allen Bereichen der Physik auf. Mechanische Kräfte sind z.B. die Gewichtskraft, die Federkraft und die Reibungskraft.
 
-[![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4)_Video 29: Messung der Kraft_
+!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4 "Video: Messung der Kraft")
 
-## Messung der Kraft \(!\)
+## Messung der Kraft (!)
 
-![Abbildung 11](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png)
+![Abbildung](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png "")
 
 Oben wurde die Kraft durch ihre beschleunigende Wirkung definiert. Das Phänomen der Beschleunigung eignet sich aber nicht gut für die Messung von Kräften. Man benutzt daher meist die deformierende Wirkung der Kraft, um diese zu messen.
 
@@ -165,9 +163,9 @@ Fixiert man eine Feder an einem Ende und zieht am anderen Ende mit einer Kraft, 
 $$F=D\cdot s,$$
 wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeigenschaft der Feder ist.
 
-[![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4)_Video 30: Beispiel Federdehnung \(C\)_
+!?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4 "Video: Beispiel Federdehnung")
 
-> ## Beispiel 3.1.7
+> Beispiel 3.1.7
 >
 > Wie groß ist eine Kraft, wenn man mit ihr eine Feder, die eine Federkonstante von 400Nm besitzt, um 5cm dehnt?
 >
@@ -175,13 +173,13 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 >
 > $F=D s=400Nm\cdot 0,05m=20N.$
 
-### Gewichtskraft und Masse \(!\)
+### Gewichtskraft und Masse (!)
 
-[![IMAGE ALT TEXT HERE](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4)_Video 31: Gewichtskraft und Masse \(C\)_
+!?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4) "Video: Gewichtskraft und Masse")
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
 
-![Abbildung 12](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_D0544A33.4x.png)
+![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_D0544A33.4x.png "")
 
 Wiegt man einen Körper auf der Erdoberfläche, ist die eine Masse die Erde und die andere Masse der Körper, der gewogen werden soll. Man erhält folgende Beziehung:
 $$F=m g,$$
@@ -190,7 +188,7 @@ wobei m die Masse und g die Erdbeschleunigung ist.
 Je nach dem Ort auf der Erdoberfläche, an dem man sich befindet, ist die Erdbeschleunigung leicht unterschiedlich. Sie hängt beispielsweise von der Höhe über dem Meeresspiegel (Abstand zum Erdmittelpunkt) und der geographischen Breite (Fliehkraft durch Erddrehung) ab. Als Mittelwert benutzt man
 $$g=9,81\frac{m}{s^2}.$$
 
-![Abbildung 13](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_6979A403.4x.png)
+![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_6979A403.4x.png)
 
 Manchmal führt man die Kraft auch über die Gewichtskraft ein: Auf einen Körper mit gegebener Masse wirkt eine Gewichtskraft, deren Wert in Newton gleich dem 9,81-Fachen seiner Masse in kg ist. Allerdings ist die Größe g keine Naturkonstante, sondern hängt unter anderem vom Ort auf der Erdoberfläche ab. Auf dem Mond wiegen die Körper sogar 1/6 dessen, was sie auf der Erde wiegen. Trotzdem benutzt man häufig Massenstücke mit bekanntem Gewicht, um Kraftmesser und Waagen zu kalibrieren. Dann ist man darauf angewiesen, dass der Wert der Erdbeschleunigung g möglichst genau bekannt ist. Daher sagt man im Alltag auch oft, dass ein Liter Wasser 1kg wiegt. Man setzt quasi Gewicht und Masse gleich.
 
