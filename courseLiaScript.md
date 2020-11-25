@@ -167,7 +167,7 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 
 ## Gewichtskraft und Masse (!)
 
-!?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4)
+!?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4 "Video: Gewichtskraft und Masse")
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
 
