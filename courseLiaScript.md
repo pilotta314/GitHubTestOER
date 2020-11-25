@@ -76,7 +76,7 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 [[ ]] Um das voraussagen zu können, braucht man mehr Informationen.
 *******************************************************************************************
 
-Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der     gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
+Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
 
 *******************************************************************************************
 
@@ -89,7 +89,9 @@ Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $F_G$ er
 [[ ]] $m=3,69kg$ und $F_G=36,2N$
 [[ ]] $m=3,69kg$ und $F_G=13,6N$
 ****************************************************************************************
+
 Die Masse ist unverändert $1,00kg$ und die wirkende Schwerebeschleunigung liegt bei $3,69\frac{m}{s^2}$. Für die wirkende Gewichtskraft ergibt sich also: $F_G=m\cdot a=1kg\cdot 3,69\frac{m}{s^2}=3,69N$.
+
 **************************************************************************************
 
 **Aufgabe 3.1.4**
