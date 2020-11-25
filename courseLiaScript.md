@@ -68,6 +68,11 @@ oder in Vektorschreibweise $\overrightarrow{F}=m \cdot \overrightarrow{a}$. Mit 
 
 **Aufgabe 3.1.2**
 
+[[ ]] Do not touch!
+[[X]] Select this one ...
+[[X]] ... and this one too!
+[[ ]] also not correct ...
+
 Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwaage gelegt. Die Waage befindet sich im Gleichgewicht. Was passiert, wenn Sie dieselbe Anordnung auf den Mond bringen?
 
 **A** Der Arm mit dem größeren Körper bewegt sich nach unten.
