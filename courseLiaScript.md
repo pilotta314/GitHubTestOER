@@ -76,7 +76,9 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 [[ ]] Um das voraussagen zu können, braucht man mehr Informationen.
 [[?]] Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der     gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
 *******************************************************************************************
+
 Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der     gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
+
 *******************************************************************************************
 
 **Aufgabe 3.1.3**
