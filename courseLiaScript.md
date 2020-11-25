@@ -114,7 +114,9 @@ Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage
 
 [[7,36]]
 *****************************************************************************************
+
 Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten $F_{Planet}=m\cdot g_{Planet}$. Gleichzeitig ist bekannt, dass $F_{Planet}=34\cdot F_{Erde}$ gilt. Es ergibt sich also: $m\cdot g_{Planet}=34\cdot m\cdot g_{Erde} \Rightarrow g_{Planet}=34\cdot g_{Erde}=34\cdot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$.
+
 ****************************************************************************************
 
 ## Definition der Kraft (!)
