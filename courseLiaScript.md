@@ -199,7 +199,7 @@ Die Gravitationskraft zwischen Körpern wirkt über das Volumen der Körper vert
 
 Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf [![dieser Seite](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/modstart.html#LABEL_kraefte_definitionmessung_BASICS.jpg)](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/modstart.html#LABEL_kraefte_definitionmessung_BASICS).
 
-!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.jpg)](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4 "Video32: Beispiel Schokoladentafel")
+!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-441_mp4.mp4 "Video32: Beispiel Schokoladentafel")
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen. Falls nicht anders angegeben, verwenden Sie $g=9,81\frac{m}{s^2}$.
 
