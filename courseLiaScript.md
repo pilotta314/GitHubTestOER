@@ -102,14 +102,20 @@ Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich d
 [[ ]] auf dem Mars \( $g_M=3,69\frac{m}{s^2}$\)
 [[ ]] auf dem Neptun \( $g_n=11,00\frac{m}{s^2}$\)
 [[X]] auf dem Jupiter \( $g_J=23,12\frac{m}{s^2}$\)
-[[?]] Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größten Wert. Ihre Masse bleibt aber trotzdem unverändert.
+*****************************************************************************************
+
+Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größten Wert. Ihre Masse bleibt aber trotzdem unverändert.
+
+*****************************************************************************************
 
 **Aufgabe 3.1.5
 
 Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur $\frac{3}{4}$ Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $g=9,81\frac{m}{s^2}$ gelten.
 
 [[7,36]]
-[[?]] Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten $F_{Planet}=m\cdot g_{Planet}$. Gleichzeitig ist bekannt, dass $F_{Planet}=34\cdot F_{Erde}$ gilt. Es ergibt sich also: $m\cdot g_{Planet}=34\cdot m\cdot g_{Erde} \Rightarrow g_{Planet}=34\cdot g_{Erde}=34\cdot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$.
+*****************************************************************************************
+Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten $F_{Planet}=m\cdot g_{Planet}$. Gleichzeitig ist bekannt, dass $F_{Planet}=34\cdot F_{Erde}$ gilt. Es ergibt sich also: $m\cdot g_{Planet}=34\cdot m\cdot g_{Erde} \Rightarrow g_{Planet}=34\cdot g_{Erde}=34\cdot 9,81\frac{m}{s^2}=7,36\frac{m}{s^2}$.
+****************************************************************************************
 
 ## Definition der Kraft (!)
 
