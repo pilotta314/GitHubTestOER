@@ -119,7 +119,7 @@ Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten
 
 ****************************************************************************************
 
-## Definition der Kraft (!)
+## Definition der Kraft
 
 !?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4 "Video: Definition der Kraft")
 
@@ -145,7 +145,7 @@ Als Variablenzeichen der Kraft verwendet man $F$ (engl. force) bzw. $\overrighta
 
 !?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-438_mp4.mp4 "Video: Messung der Kraft")
 
-## Messung der Kraft (!)
+## Messung der Kraft
 
 ![Abbildung](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png)
 
@@ -165,7 +165,7 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 >
 > $F=D s=400Nm\cdot 0,05m=20N.$
 
-## Gewichtskraft und Masse (!)
+## Gewichtskraft und Masse
 
 !?[video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-439_mp4.mp4 "Video: Gewichtskraft und Masse")
 
@@ -184,7 +184,7 @@ $$g=9,81\frac{m}{s^2}.$$
 
 Manchmal führt man die Kraft auch über die Gewichtskraft ein: Auf einen Körper mit gegebener Masse wirkt eine Gewichtskraft, deren Wert in Newton gleich dem 9,81-Fachen seiner Masse in kg ist. Allerdings ist die Größe g keine Naturkonstante, sondern hängt unter anderem vom Ort auf der Erdoberfläche ab. Auf dem Mond wiegen die Körper sogar 1/6 dessen, was sie auf der Erde wiegen. Trotzdem benutzt man häufig Massenstücke mit bekanntem Gewicht, um Kraftmesser und Waagen zu kalibrieren. Dann ist man darauf angewiesen, dass der Wert der Erdbeschleunigung g möglichst genau bekannt ist. Daher sagt man im Alltag auch oft, dass ein Liter Wasser 1kg wiegt. Man setzt quasi Gewicht und Masse gleich.
 
-## Newtonsches Gravitationsgesetz \(!\)
+## Newtonsches Gravitationsgesetz
 
 Allgemein wird die Anziehung zwischen zwei Körpern durch das von Isaac Newton entdeckte Gravitationsgesetz beschrieben. Dieses Gesetz besagt, dass sich zwei Körper anziehen. Für die anziehende Kraft gilt folgender Zusammenhang:
 $F_G=G\cdot\frac{m_1\cdot m_2}{r^2}
