@@ -68,20 +68,12 @@ oder in Vektorschreibweise $\overrightarrow{F}=m \cdot \overrightarrow{a}$. Mit 
 
 **Aufgabe 3.1.2**
 
-[[ ]] Do not touch!
-[[X]] Select this one ...
-[[X]] ... and this one too!
-[[ ]] also not correct ...
-
 Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwaage gelegt. Die Waage befindet sich im Gleichgewicht. Was passiert, wenn Sie dieselbe Anordnung auf den Mond bringen?
 
-**A** Der Arm mit dem größeren Körper bewegt sich nach unten.
-
-**B** Der Arm mit dem kleineren Körper bewegt sich nach unten.
-
-**C** Nichts, warum sollte sich was ändern?
-
-**D** Um das voraussagen zu können, braucht man mehr Informationen.
+[[ ]] Der Arm mit dem größeren Körper bewegt sich nach unten.
+[[ ]] Der Arm mit dem kleineren Körper bewegt sich nach unten.
+[[X]] Nichts, warum sollte sich was ändern?
+[[ ]] Um das voraussagen zu können, braucht man mehr Informationen.
 
 <details>
   Richtig ist C. Die Körper haben die gleiche Masse, sonst wäre die Waage auf der Erde nicht im Gleichgewicht. Auch auf dem Mond erfahren die beiden Körper aufgrund der     gleichen Masse die gleiche Anziehung. Die Waage ist also auch auf dem Mond im Gleichgewicht.
@@ -92,13 +84,10 @@ Sie haben einen großen und einen kleinen Körper auf der Erde auf eine Balkenwa
 
 Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $F_G$ erfährt es? Hinweis: Die Schwerebeschleunigung auf dem Mars beträgt $3,69\frac{m}{s^2}$.
 
-**A** $m=3,69kg$ und $F_G=3,69N$
-
-**B** $m=1,00kg$ und $F_G=3,69N$
-
-**C** $m=3,69kg$ und $F_G=36,2N$
-
-**D** $m=3,69kg$ und $F_G=13,6N$
+[[X]] $m=3,69kg$ und $F_G=3,69N$
+[[ ]] $m=1,00kg$ und $F_G=3,69N$
+[[ ]] $m=3,69kg$ und $F_G=36,2N$
+[[ ]] $m=3,69kg$ und $F_G=13,6N$
 
 <details>
   Richtig ist A. Die Masse ist unverändert $1,00kg$ und die wirkende Schwerebeschleunigung liegt bei $3,69\frac{m}{s^2}$. Für die wirkende Gewichtskraft ergibt sich also: $F_G=m\cdot a=1kg\cdot 3,69\frac{m}{s^2}=3,69N$.
@@ -108,13 +97,10 @@ Welche Masse m hat ein Kilogramm auf dem Mars, und welche Gewichtskraft $F_G$ er
 
 Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich dort auf die Waage. Wo zeigt die Waage den höchsten Wert an?
 
-**A** auf der Erde \( $g_e=9,81\frac{m}{s^2}$\)
-
-**B** auf dem Mars \( $g_M=3,69\frac{m}{s^2}$\)
-
-**C** auf dem Neptun \( $g_n=11,00\frac{m}{s^2}$\)
-
-**D** auf dem Jupiter \( $g_J=23,12\frac{m}{s^2}$\)
+[[ ]] auf der Erde \( $g_e=9,81\frac{m}{s^2}$\)
+[[ ]] auf dem Mars \( $g_M=3,69\frac{m}{s^2}$\)
+[[ ]] auf dem Neptun \( $g_n=11,00\frac{m}{s^2}$\)
+[[X]] auf dem Jupiter \( $g_J=23,12\frac{m}{s^2}$\)
 
 <details>
   Richtig ist D. Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größten Wert. Ihre Masse bleibt aber trotzdem unverändert.
