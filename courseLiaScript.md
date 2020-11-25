@@ -135,7 +135,7 @@ Das Newton ist keine SI-Basiseinheit, sondern eine abgeleitete SI-Einheit. Aufgr
 $$1N=1kg\cdot\frac{m}{s^2}.$$
 !?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-437_mp4.mp4 "Video: Beispiel: Beschleunigung eines Autos").
 
->**Beispiel 3.1.6**
+> **Beispiel 3.1.6**
 >
 > Um ein Auto der Masse 1500kg ohne Reibung innerhalb von 10s „von 0 auf 100“ zu bringen, es also aus dem Stand auf eine Geschwindigkeit von $27,8\frac{m}{s}$ zu beschleunigen, herrscht zwischen Auto und Fahrbahn eine Kraft von
 >
