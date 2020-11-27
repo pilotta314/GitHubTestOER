@@ -290,11 +290,9 @@ coloured text
 
 ## Schriftgröße
 
-<h1> Dieser Text ist riesig </h1>
+<h3> Diese Schrift ist groß </h3>
 
-<h3> Dieser Text ist mittelgroß </h3>
-
-<h6> Dieser Text ist winzig
+<h6> Diese Schrift ist winzig
   <br>und geht über mehrere Zeilen
 </h6>
 
