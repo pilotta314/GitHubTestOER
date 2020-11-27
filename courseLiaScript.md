@@ -203,37 +203,30 @@ Weitere Erläuterungen zu Masse und Gewichtskraft finden sich im Basiswissen auf
 
 Wenn im Aufgabentext nicht anders angegeben, geben Sie die Ergebnisse auf ganze Zahlen gerundet an. Bei Angaben in wissenschaftlicher Schreibweise (Exponentialschreibweise) runden Sie auf zwei Nachkommastellen. Falls nicht anders angegeben, verwenden Sie $g=9,81\frac{m}{s^2}$.
 
-### Aufgabe 3.1.8  
- 
+**Aufgabe 3.1.8**
+
 Ein Astronaut kann auf dem Mond viel höher springen als auf der Erde, weil …
- 
- **A**  … der Mond keine Atmosphäre hat. 	
 
- **B**  … die Masse des Astronauten auf dem Mond geringer ist. 	
- 
- **C**  … die Gewichtskraft des Astronauten auf dem Mond geringer ist als auf der Erde.  
+[[ ]] … der Mond keine Atmosphäre hat.
+[[ ]] … die Masse des Astronauten auf dem Mond geringer ist.
+[[X]] … die Gewichtskraft des Astronauten auf dem Mond geringer ist als auf der Erde.
+*****************************************************************************************
+Der Mond hat eine geringere Masse als die Erde. Daraus resultiert eine geringere Anziehungskraft (Gewichtskraft) für Massen. (Die Masse des Astronauten ist immer gleich.)  
 
-<details>
-  <summary markdown="span">Lösung</summary>
-    Richtig ist C.
-    Der Mond hat eine geringere Masse als die Erde. Daraus resultiert eine geringere Anziehungskraft (Gewichtskraft) für Massen. (Die Masse des Astronauten ist immer gleich.)  
-</details>
+*****************************************************************************************
 
-### Aufgabe 3.1.9  
+**Aufgabe 3.1.9 ** 
  
 Ein Körper befindet sich auf dem Mond. Welche der folgenden Aussagen ist oder sind richtig?
  
- **A**  Die Gewichtskraft des Körpers auf dem Mond ist geringer als die Gewichtskraft auf der Erdoberfläche.  	
+[[X]] Die Gewichtskraft des Körpers auf dem Mond ist geringer als die Gewichtskraft auf der Erdoberfläche.  	
 
- **B**  Die Masse des Körpers auf der Mondoberfläche ist die gleiche wie auf der Erde. 	
+[[X]] Die Masse des Körpers auf der Mondoberfläche ist die gleiche wie auf der Erde. 	
  
- **C**  Die Gewichtskraft des Körpers auf dem Mond ist genauso groß wie die Gewichtskraft auf der Erdoberfläche.  
-
-<details>
-  <summary markdown="span">Lösung</summary>
-    Richtig sind A und B.
-    Auf dem Mond beträgt die Fallbeschleunigung nur etwa ein Sechstel der Erdbeschleunigung. Daher beträgt die Gewichtskraft auch nur etwa ein Sechstel der Gewichtskraft auf der Erdoberfläche. Die Masse ist eine intrinsische Eigenschaft des Körpers und hängt nicht von der Fallbeschleunigung ab.  
-</details>
+[[ ]]  Die Gewichtskraft des Körpers auf dem Mond ist genauso groß wie die Gewichtskraft auf der Erdoberfläche.  
+*****************************************
+Auf dem Mond beträgt die Fallbeschleunigung nur etwa ein Sechstel der Erdbeschleunigung. Daher beträgt die Gewichtskraft auch nur etwa ein Sechstel der Gewichtskraft auf der Erdoberfläche. Die Masse ist eine intrinsische Eigenschaft des Körpers und hängt nicht von der Fallbeschleunigung ab.  
+*****************************************
 
 
 
