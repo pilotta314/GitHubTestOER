@@ -215,7 +215,7 @@ Der Mond hat eine geringere Masse als die Erde. Daraus resultiert eine geringere
 
 *****************************************************************************************
 
-**Aufgabe 3.1.9 ** 
+**Aufgabe 3.1.9** 
  
 Ein Körper befindet sich auf dem Mond. Welche der folgenden Aussagen ist oder sind richtig?
  
