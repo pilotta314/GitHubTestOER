@@ -268,7 +268,7 @@ coloured text
 
 ## Quizzes
 
-Multiple- und Singlechoice Quizzes möglich.
+Multiple- und Singlechoice Quizzes sind möglich.
 Hints und Auflösung mit Erklärung optional.
 
 [( )] Wrong
