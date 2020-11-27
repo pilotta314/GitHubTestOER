@@ -231,6 +231,28 @@ Auf dem Mond beträgt die Fallbeschleunigung nur etwa ein Sechstel der Erdbeschl
 
 # Tests:
 
+## Tabellen
+
+|  | Masse $m$ | Radius $r$ | Gravitationskonstante $G$ | Fallbeschleunigung$g$ | Tabellenwert |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Erde | $5,974\cdot 10^{24}kg$ | $6371km$ | $6,672 \cdot 10^{−11} \frac{Nm^2}{kg^2}$ | $\approx 9,820 \frac{m}{s^2}$ | $9,81\frac{m}{s^2}$ |
+| Mond | $7,349\cdot 10^{22}kg$ | $1738km$ | $6,672 \cdot 10^{−11} \frac{Nm^2}{kg^2}$ | $\approx 1,622 \frac{m}{s^2}$ | $1,62\frac{m}{s^2}$ |
+| Jupiter | $\approx 318\cdot Erdmasse$ | $\approx 12 \cdot Erdradius$ | $6,672 \cdot 10^{−11} \frac{Nm^2}{kg^2}$ | $\approx 21,69\frac{m}{s^2}$ | $23,1\frac{m}{s^2}$ |
+
+## Lists
+
+1. First
+2. Second
+   1. ordered
+   2. sub-list
+3. Third
+   1. ordered
+   2. sub-list
+4. Fourth
+   * unordered
+   * sub-list
+5. Last one
+
 ## Collapse-Panel
 <details>
   <summary markdown="span"></summary>
