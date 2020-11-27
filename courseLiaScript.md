@@ -290,6 +290,14 @@ Platz für Erklärungen
 
 *****************************************************
 
+Auch Matrix-Format ist möglich:
+
+[[:-)] (:-]) [$a^2$]]
+[ [X]   [ ]    [X]  ]       a multiple-choice row
+[ [ ]   [X]    [ ]  ]       a second one
+[ ( )   ( )    (X)  ]       now it is single-choice
+[ ( )   (X)    ( )   (X) ]  more or less options are fine too
+
 ## H5P
 
 <iframe src="https://h5p.org/h5p/embed/1023720" width="1090" height="282" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
