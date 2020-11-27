@@ -98,10 +98,10 @@ Die Masse ist unverändert $1,00kg$ und die wirkende Schwerebeschleunigung liegt
 
 Sie fliegen zu verschiedenen Planeten in unserem Sonnensystem und stellen sich dort auf die Waage. Wo zeigt die Waage den höchsten Wert an?
 
-[[ ]] auf der Erde \( $g_e=9,81\frac{m}{s^2}$\)
-[[ ]] auf dem Mars \( $g_M=3,69\frac{m}{s^2}$\)
-[[ ]] auf dem Neptun \( $g_n=11,00\frac{m}{s^2}$\)
-[[X]] auf dem Jupiter \( $g_J=23,12\frac{m}{s^2}$\)
+[[ ]] auf der Erde ( $g_e=9,81\frac{m}{s^2}$)
+[[ ]] auf dem Mars ( $g_M=3,69\frac{m}{s^2}$)
+[[ ]] auf dem Neptun ( $g_n=11,00\frac{m}{s^2}$)
+[[X]] auf dem Jupiter ( $g_J=23,12\frac{m}{s^2}$)
 *****************************************************************************************
 
 Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größten Wert. Ihre Masse bleibt aber trotzdem unverändert.
