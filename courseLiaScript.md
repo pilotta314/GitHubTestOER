@@ -264,9 +264,24 @@ coloured text
 
 <h6> Dieser Text ist winzig
   <br>und geht über mehrere Zeilen
-  
+</h6>
+
+## Quizzes
+
+Multiple- und Singlechoice Quizzes möglich.
+Hints und Auflösung mit Erklärung optional.
+
+[( )] Wrong
+[(X)] This is the **correct** answer
+[( )] This is ~~wrong~~ too!
+[[?]] only ONE correct answer!
+*******************************************************
+Platz für Erklärungen
+
+*****************************************************
+
 ## H5P
 
 <iframe src="https://h5p.org/h5p/embed/1023720" width="1090" height="282" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-</h6>
+
