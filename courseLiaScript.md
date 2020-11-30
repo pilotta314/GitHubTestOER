@@ -268,9 +268,11 @@ $\downarrow$ Klick here
 Inline: ` enter some code in here 1###$& `
 
 Block: 
-``` language <- (python, c, javascript, ...)  +OptionalTitle
 
-code ...
+```language <- python  
+
+name = input("Wie heißt du?")
+print("Hallo " + name + "!")
 
 ```
 ## Media
