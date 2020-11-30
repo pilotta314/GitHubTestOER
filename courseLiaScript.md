@@ -318,17 +318,8 @@ Linkbeschreibung: [klick here](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/
 ## Footnotes
 
 Footnote[^1](explanation in one line)
+
 [1]: Explanation
-
-
-## Inputbox
-
-[[Answer]]
-[[?]] Question -> ?
-****************************
-Platz für Erklärungen.
-
-****************************
 
 ## Checkbox:
 
@@ -337,14 +328,6 @@ Platz für Erklärungen.
   * [ ] Sub-task 1
   * [x] Sub-task 2
   * [ ] Sub-task 3
-
-## Schriftgröße
-
-<h3> Diese Schrift ist groß </h3>
-
-<h6> Diese Schrift ist winzig
-  <br>und geht über mehrere Zeilen
-</h6>
 
 ## Quizzes
 
@@ -367,6 +350,24 @@ Auch Matrix-Format ist möglich:
 [ [ ]   [X]    [ ]  ]       a second one
 [ ( )   ( )    (X)  ]       now it is single-choice
 [ ( )   (X)    ( )   (X) ]  more or less options are fine too
+
+## Inputbox
+
+[[Answer]]
+[[?]] Question -> ?
+****************************
+
+Platz für Erklärungen.
+
+****************************
+
+## Schriftgröße
+
+<h3> Diese Schrift ist groß </h3>
+
+<h6> Diese Schrift ist winzig
+  <br>und geht über mehrere Zeilen
+</h6>
 
 ## H5P
 
