@@ -316,6 +316,7 @@ Linkbeschreibung: [klick here](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/
 ## Footnotes
 
 Footnote[^1](explanation in one line)
+[1]: Explanation
 
 
 ## Inputbox
