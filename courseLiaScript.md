@@ -273,6 +273,19 @@ Block:
 code ...
 
 ```
+## Media
+
+### Videos
+
+!?[movie](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-440_mp4.mp4 "Video: Beispiel Federdehnung")
+
+### Bilder
+
+![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_6979A403.4x.png)
+
+### Audio
+
+?[a horse](https://www.w3schools.com/html/horse.mp3 "hear a horse")
 
 ## Inputbox
 
