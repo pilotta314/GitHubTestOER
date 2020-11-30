@@ -301,11 +301,17 @@ print("Hallo " + name + "!")
 coloured text
 </h4>
 
-## Formeln
+## Formeln (mit LaTeX)
 
-Mit LaTeX: $a_0\sum_{k = 0}^{\infty}q^k = \frac{a_0}{1-q}$
+Inline: $a_0\sum_{k = 0}^{\infty}q^k = \frac{a_0}{1-q}$
 
-$$H_n = \sum_{k = 1}^n\frac{1}{k}$$
+Herausgestellt: $$H_n = \sum_{k = 1}^n\frac{1}{k}$$
+
+## Links
+
+Einfacher Link: https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/modstart.html#LABEL_KRAEFTE
+
+Linkbeschreibung: [klick here](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/modstart.html#LABEL_KRAEFTE)
 
 ## Inputbox
 
