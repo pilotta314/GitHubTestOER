@@ -289,6 +289,18 @@ print("Hallo " + name + "!")
 
 ?[a horse](https://www.w3schools.com/html/horse.mp3 "hear a horse")
 
+## Coloring
+
+### Background
+
+<span style="background-color: #FFFF00">This text is highlighted in yellow.</span>
+
+### Text
+
+<h2 style="color:red;">
+coloured text
+</h2>
+
 ## Inputbox
 
 [[Answer]]
@@ -305,17 +317,6 @@ Platz für Erklärungen.
   * [ ] Sub-task 1
   * [x] Sub-task 2
   * [ ] Sub-task 3
-  
-## Coloring:
-
-<span style="background-color: #FFFF00">This text is highlighted in yellow.</span>
-
-Here is an example of <mark>highlighted text</mark> using the &lt;mark&gt; tag.
-
-<h2 style="color:red;">
-coloured text
-</h2>
-
 
 ## Schriftgröße
 
