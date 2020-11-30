@@ -301,6 +301,12 @@ print("Hallo " + name + "!")
 coloured text
 </h4>
 
+## Formeln
+
+Mit LaTeX: $a_0\sum_{k = 0}^{\infty}q^k = \frac{a_0}{1-q}$
+
+$$H_n = \sum_{k = 1}^n\frac{1}{k}$$
+
 ## Inputbox
 
 [[Answer]]
