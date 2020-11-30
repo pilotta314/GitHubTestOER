@@ -269,7 +269,7 @@ Inline: ` enter some code in here 1###$& `
 
 Block: 
 
-```language <- python  
+```language python  Begrüßung
 
 name = input("Wie heißt du?")
 print("Hallo " + name + "!")
