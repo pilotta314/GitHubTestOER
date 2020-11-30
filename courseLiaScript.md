@@ -315,11 +315,8 @@ Linkbeschreibung: [klick here](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/
 
 ## Footnotes
 
-Inline Footnote[1] ⇒ [^1](explanation in one line)
+Footnote[^1](explanation in one line)
 
-Divided into a marker[2] ⇒ [^2], that can appeare every where and an explanation at the bottom of a section
-[^2]: This is an explanation, that
-      can consist of multiple blocks.
 
 ## Inputbox
 
