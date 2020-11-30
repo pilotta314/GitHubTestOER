@@ -254,6 +254,9 @@ Auf dem Mond beträgt die Fallbeschleunigung nur etwa ein Sechstel der Erdbeschl
 5. Last one
 
 ## Collapse-Panel
+
+Klick here $\downarrow$
+
 <details>
   <summary markdown="span"></summary>
 
