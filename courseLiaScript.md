@@ -297,9 +297,9 @@ print("Hallo " + name + "!")
 
 ### Text
 
-<h2 style="color:red;">
+<h4 style="color:red;">
 coloured text
-</h2>
+</h4>
 
 ## Inputbox
 
