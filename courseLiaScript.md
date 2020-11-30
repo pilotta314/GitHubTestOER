@@ -255,7 +255,7 @@ Auf dem Mond beträgt die Fallbeschleunigung nur etwa ein Sechstel der Erdbeschl
 
 ## Collapse-Panel
 
-Klick here $\downarrow$
+$\downarrow$ Klick here
 
 <details>
   <summary markdown="span"></summary>
@@ -268,7 +268,7 @@ Klick here $\downarrow$
 Inline: ` enter some code in here 1###$& `
 
 Block: 
-```language <- (python, c, javascript, ...)  +OptionalTitle
+``` language <- (python, c, javascript, ...)  +OptionalTitle
 
 code ...
 
