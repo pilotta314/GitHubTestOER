@@ -317,9 +317,8 @@ Linkbeschreibung: [klick here](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/
 
 ## Footnotes
 
-Footnote[^1](explanation in one line)
+Footnote[^1](explanation)
 
-[1]: Explanation
 
 ## Quizzes
 
@@ -365,11 +364,3 @@ Platz für Erklärungen.
 
 <iframe src="https://h5p.org/h5p/embed/1023720" width="1090" height="282" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
-## Checkbox:
-
-* [x] Completed task
-* [ ] Incomplete task
-  * [ ] Sub-task 1
-  * [x] Sub-task 2
-  * [ ] Sub-task 3
