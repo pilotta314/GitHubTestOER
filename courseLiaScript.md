@@ -216,21 +216,6 @@ Der Mond hat eine geringere Masse als die Erde. Daraus resultiert eine geringere
 
 *****************************************************************************************
 
-**Aufgabe 3.1.9** 
- 
-Ein Körper befindet sich auf dem Mond. Welche der folgenden Aussagen ist oder sind richtig?
- 
-[[X]] Die Gewichtskraft des Körpers auf dem Mond ist geringer als die Gewichtskraft auf der Erdoberfläche.  	
-[[X]] Die Masse des Körpers auf der Mondoberfläche ist die gleiche wie auf der Erde. 	
-[[ ]] Die Gewichtskraft des Körpers auf dem Mond ist genauso groß wie die Gewichtskraft auf der Erdoberfläche.  
-******************************************************************************************
-
-Auf dem Mond beträgt die Fallbeschleunigung nur etwa ein Sechstel der Erdbeschleunigung. Daher beträgt die Gewichtskraft auch nur etwa ein Sechstel der Gewichtskraft auf der Erdoberfläche. Die Masse ist eine intrinsische Eigenschaft des Körpers und hängt nicht von der Fallbeschleunigung ab. 
-
-******************************************************************************************
-
-
-
 # Tests:
 
 ## Tabellen
