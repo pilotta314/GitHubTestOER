@@ -108,7 +108,7 @@ Die Anziehung auf dem Jupiter ist am größten. Die Waage zeigt dort den größt
 
 *****************************************************************************************
 
-**Aufgabe 3.1.5
+**Aufgabe 3.1.5**
 
 Sie befinden sich auf einem unbekannten Planeten. Sie haben zufällig Ihre Waage dabei und stellen sich darauf. Im Vergleich zur Erde zeigt die Waage nur $\frac{3}{4}$ Ihres Gewichtes auf der Erde an. Wie groß ist die Fallbeschleunigung auf dem Planeten? Für die Fallbeschleunigung auf der Erde soll $g=9,81\frac{m}{s^2}$ gelten.
 
