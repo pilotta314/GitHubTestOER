@@ -176,7 +176,7 @@ In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt
 
 ![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_D0544A33.4x.png "")<!--
 style = "width: 400px;"
-
+-->
 Wiegt man einen Körper auf der Erdoberfläche, ist die eine Masse die Erde und die andere Masse der Körper, der gewogen werden soll. Man erhält folgende Beziehung:
 $$F=m g,$$
 wobei m die Masse und g die Erdbeschleunigung ist.
