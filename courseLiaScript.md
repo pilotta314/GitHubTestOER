@@ -147,7 +147,13 @@ Als Variablenzeichen der Kraft verwendet man $F$ (engl. force) bzw. $\overrighta
 
 ## Messung der Kraft
 
-![Abbildung](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png)
+![Abbildung](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png)<!--
+style = "width: 100px;
+         border: 10px solid;
+         filter: grayscale(100%);"
+
+class = "animated infinite bounce"
+-->
 
 Oben wurde die Kraft durch ihre beschleunigende Wirkung definiert. Das Phänomen der Beschleunigung eignet sich aber nicht gut für die Messung von Kräften. Man benutzt daher meist die deformierende Wirkung der Kraft, um diese zu messen.
 
