@@ -148,9 +148,7 @@ Als Variablenzeichen der Kraft verwendet man $F$ (engl. force) bzw. $\overrighta
 ## Messung der Kraft
 
 ![Abbildung](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_CA56B329.4x.png)<!--
-style = "width: 400px;
-         border: 10px solid;
-         filter: grayscale(100%);"
+style = "width: 400px;"
 class = "animated infinite bounce"
 -->
 
