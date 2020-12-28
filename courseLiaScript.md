@@ -176,7 +176,8 @@ wobei der Proportionalitätsfaktor D Federkonstante heißt und eine Materialeige
 
 In der obigen Definition des Newtons wurde die Masse als die Größe eingeführt, mit der sich ein Körper der Beschleunigung widersetzt. Diese Eigenschaft der Masse nennt man die Trägheit. Üblicherweise bestimmt man die Masse eines Körpers jedoch nicht durch das Beschleunigen eines Körpers, sondern indem man diesen wiegt. Dabei benutzt man die Tatsache, dass sich zwei Massen durch Gravitation gegenseitig anziehen. Diese Eigenschaft der Masse nennt man die Schwere.
 
-![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_D0544A33.4x.png "")
+![image](https://lx3.mint-kolleg.kit.edu/onlinekursphysik/html/1.3.1/_D0544A33.4x.png "")<!--
+style = "width: 400px;"
 
 Wiegt man einen Körper auf der Erdoberfläche, ist die eine Masse die Erde und die andere Masse der Körper, der gewogen werden soll. Man erhält folgende Beziehung:
 $$F=m g,$$
