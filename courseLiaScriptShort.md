@@ -119,12 +119,3 @@ Es gilt auf der Erde $F_{Erde}=m\cdot g_{Erde}$ und auf dem unbekannten Planeten
 
 ****************************************************************************************
 
-## Definition der Kraft
-
-!?[Video](https://media.bibliothek.kit.edu/world/2020/DIVA-2020-436_mp4.mp4 "Video: Definition der Kraft")
-
-Die Kraft ist eine sehr grundlegende physikalische Größe. Inbesondere in der Mechanik ist sie sehr wichtig. Die Kraft hat eine Richtung, also ist sie ein Vektor. Ein Körper kann durch eine Kraft verformt werden und/oder sein Bewegungszustand kann sich ändern. Wirkt eine Kraft auf einen frei beweglichen Körper, so wird dieser in Richtung der Kraft beschleunigt. Die Beschleunigung $\overrightarrow{a}$ des Körpers ist dabei der angreifenden Kraft proportional,
-$$\overrightarrow{F}=m\cdot \overrightarrow{a},$$
-wobei die Proportionalitätskonstante in dieser Beziehung die träge Masse m des Körpers ist. Aus dieser Definition der Kraft ergibt sich auch eine Definition ihrer physikalischen Einheit, des Newtons:
-
-1N (1 Newton) ist die Kraft, die benötigt wird, um einen Körper der Masse 1kg innerhalb von 1s auf die Geschwindigkeit 1ms zu beschleunigen.
