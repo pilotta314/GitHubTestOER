@@ -12,6 +12,8 @@ script:   javascript resourse url
 
 -->
 
+[preview-lia](https://github.com/pilotta314/GitHubTestOER/blob/master/courseLiaScript.md)
+
 # 3.1.1 Definition und Messung der Kraft
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
