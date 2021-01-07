@@ -239,6 +239,23 @@ Der Mond hat eine geringere Masse als die Erde. Daraus resultiert eine geringere
 
 # Tests:
 
+## Interaktiver Code
+
+``` javascript
+var i=0;
+var j=0;
+var result = 0;
+
+for(i = 0; i<1000; i++) {
+    for(j = 0; j<i; j++) {
+        result += j;
+    }
+}
+// the last statement defines the return statement
+result;
+```
+<script>@input</script>
+
 ## Tabellen
 
 |  | Masse $m$ | Radius $r$ | Gravitationskonstante $G$ | Fallbeschleunigung$g$ | Tabellenwert |
