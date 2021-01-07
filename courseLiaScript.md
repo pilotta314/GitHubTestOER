@@ -1,3 +1,17 @@
+<!--
+
+author:   Stina Schäfer
+
+email:    stina.schaefer@tib.eu
+
+version:  0.0.1
+
+language: de
+
+script:   javascript resourse url
+
+-->
+
 # 3.1.1 Definition und Messung der Kraft
 
 ## Basiswissen „Masse der Körper und Gewichtskraft“
