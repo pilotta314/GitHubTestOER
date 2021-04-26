@@ -8,7 +8,7 @@ version:  0.0.1
 
 language: de
 
-script:   javascript resourse url
+course: https://github.com/pilotta314/GitHubTestOER/edit/master/courseLiaScript.md
 
 -->
 
