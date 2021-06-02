@@ -36,6 +36,8 @@ Hier steht $\overrightarrow{g}$ für die bekannte Erdbeschleunigung. Die Erdbesc
 
 Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg \cdot \frac{m}{s^2}$.
 
+<b>HALLO</b>
+
 > **Beispiel 3.1.1**
 >
 > Peter stellt sich auf der Erde auf seine Personenwaage. Die Anzeige seiner Waage zeigt $70,00 kg$ an. Mit einer Weltraummission fliegt er auf den Mond und stellt sich dort erneut auf seine Waage. Welches Gewicht zeigt die Waage auf dem Mond an? Die Fallbeschleunigung beträgt auf der Erde $9,81 \frac{m}{s^2}$ und auf dem Mond $1,62 \frac{m}{s^2}$. Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit $1 kg$ auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall
