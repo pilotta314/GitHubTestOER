@@ -45,6 +45,27 @@ Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg
   </p>
 </div>
 
+<ul style="list-style-type:none">
+  <li>
+    <i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternalis*)
+  </li><br>
+  <li>
+    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>Suchoperatoren</b>, die aus Datenbanken und dem Bibliothekswesen bekannt sind: UND/AND/+; oder NICHT/NOT/- sowie ODER/OR
+  </li><br>
+  <li>
+    <i class="fa fa-check-circle" style="color:green"></i> Verwendung der <b>CC-Filter</b> in Suchmaschinen oder Portalen
+  </li><br>
+  <li>
+    <i class="fa fa-check-circle" style="color:green"></i> Eingabe des Suchbegriffs + <b>Creative Commons</b> oder speziell der <b>Lizenz</b> (CC 0, CC BY etc.)
+  </li><br>
+  <li>
+    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen
+  </li><br>
+  <li>
+    <i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)
+  </li>
+</ul>
+
 > **Beispiel 3.1.1**
 >
 > Peter stellt sich auf der Erde auf seine Personenwaage. Die Anzeige seiner Waage zeigt $70,00 kg$ an. Mit einer Weltraummission fliegt er auf den Mond und stellt sich dort erneut auf seine Waage. Welches Gewicht zeigt die Waage auf dem Mond an? Die Fallbeschleunigung beträgt auf der Erde $9,81 \frac{m}{s^2}$ und auf dem Mond $1,62 \frac{m}{s^2}$. Um diese Frage beantworten zu können, muss man sich klar machen, dass mit Hilfe einer Waage nicht die Masse eines Körpers gemessen wird, sondern die Kraft, mit der ein Körper von der Erde angezogen wird. Die Waage ist lediglich so kalibriert, dass das Gewicht direkt abgelesen werden kann. Legt man also eine Masse mit $1 kg$ auf eine Waage, wird eigentlich ihre Gewichtskraft gemessen, in diesem Fall
