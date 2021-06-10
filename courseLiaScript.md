@@ -13,7 +13,6 @@ course: https://github.com/pilotta314/GitHubTestOER/edit/master/courseLiaScript.
 -->
 
 
-<h1>HALLO</h1>
 # 3.1.1 Definition und Messung der Kraft
 [preview-lia](https://raw.githubusercontent.com/pilotta314/GitHubTestOER/master/courseLiaScript.md)
 ## Basiswissen „Masse der Körper und Gewichtskraft“
@@ -36,7 +35,15 @@ Hier steht $\overrightarrow{g}$ für die bekannte Erdbeschleunigung. Die Erdbesc
 
 Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg \cdot \frac{m}{s^2}$.
 
-<b>HALLO</b>
+<div class="infobox">
+  <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
+    <br><br>
+    Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.
+    <br>
+    <br>
+    <b>Workload: 1-2 Stunden</b>
+  </p>
+</div>
 
 > **Beispiel 3.1.1**
 >
