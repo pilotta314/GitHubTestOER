@@ -18,7 +18,7 @@ link: https://github.com/pilotta314/GitHubTestOER/blob/master/style.css
 # 3.1.1 Definition und Messung der Kraft
 [preview-lia](https://raw.githubusercontent.com/pilotta314/GitHubTestOER/master/courseLiaScript.md)
 ## Basiswissen „Masse der Körper und Gewichtskraft“
-
+hihi
 <iframe src="https://apps.zum.de/h5p/15508/embed" width="859" height="218" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://apps.zum.de/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 Eine Eigenschaft, die jeden Körper kennzeichnet, ist seine Masse. Schon seit langer Zeit werden Massen bestimmt. Mit Hilfe von Balkenwaagen konnten die Ägypter vor mehr als 5000 Jahren Massen vergleichen und unbekannte Massen bestimmen. Sind zwei Massen gleich groß, ist eine Balkenwaage bei einer Messung im Gleichgewicht. Ist die Masse auf einer Seite größer, bewegt sich diese Seite nach unten. Dieses Verhalten ist unabhängig davon, wo die Messung durchgeführt wird. Eine Anordnung, die auf der Erde im Gleichgewicht ist, wäre sogar auf dem Mond im Gleichgewicht.
