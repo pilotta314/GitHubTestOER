@@ -25,9 +25,9 @@ link: https://github.com/pilotta314/GitHubTestOER/blob/master/style.css
       Test
     </title>
   </head>
-<body color="green">
+<body bgcolor=green>
   <h1>Ueberschrift</h1>
-    Text text
+    Texti text
     <hr>
     text texti
 </body>
