@@ -30,6 +30,39 @@ link: https://github.com/pilotta314/GitHubTestOER/blob/master/style.css
     Texti text
     <hr>
     text texti
+  
+  <div>
+   <button class="accordion"><img src="images/creative-commons_cc-zero.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC Zero Lizenz" title="CC Zero Lizenz" height="60"/> <a aria-describedby="Link zur CC Zero Lizenz" href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">zur Lizenz</a></button>
+   <div class="panel">
+     <p><b>CC 0 = Ohne Bedingungen</b><br>Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.
+     </p>
+   </div>
+   <button class="accordion"><img src="images/creative-commons_cc-by.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY Lizenz" title="CC BY Lizenz" height="60"/> <a aria-describedby="Link zur CC BY Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">zur Lizenz</a></button>
+   <div class="panel">
+     <p><b>CC BY = Namensnennung</b><br>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.</p>
+   </div>
+   <button class="accordion"><img src="images/creative-commons_cc-by-sa.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY SA Lizenz" title="CC BY SA Lizenz" height="60"/> <a aria-describedby="Link zur CC BY SA Lizenz" href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank">zur Lizenz</a></button>
+   <div class="panel">
+     <p><b>CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</p>
+   </div>
+   <button class="accordion"><img src="images/creative-commons_cc-by-nc.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC Lizenz" title="CC BY NC Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC Lizenz" href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" target="_blank">zur Lizenz</a></button>
+   <div class="panel">
+     <p><b>CC BY NC = Namensnennung und nicht kommerziell</b><br>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden.</p>
+   </div>
+   <button class="accordion"><img src="images/creative-commons_cc-by-nd.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY ND Lizenz" title="CC BY ND Lizenz" height="60"/> <a aria-describedby="Link zur CC BY ND Lizenz" href="https://creativecommons.org/licenses/by-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
+   <div class="panel">
+     <p><b>CC BY ND = Namensnennung und keine Bearbeitung</b><br>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden.</p>
+   </div>
+   <button class="accordion"><img src="images/creative-commons_cc-by-nc-sa.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC SA Lizenz" title="CC BY NC SA Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC SA Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
+   <div class="panel">
+      <p><b>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</p>
+   </div>
+   <button class="accordion"><img src="images/creative-commons_cc-by-nc-nd.vg.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC ND Lizenz" title="CC BY NC ND Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC ND Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
+   <div class="panel">
+     <p><b>CC BY NC ND = Namensnennung, nicht kommerziell und keine Bearbeitung</b><br>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</p>
+   </div>
+</div>
+
 </body>
 </html>
 
@@ -433,4 +466,164 @@ Platz für Erklärungen.
 
 <iframe src="https://h5p.org/h5p/embed/1023720" width="1090" height="282" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-
+<script>
+  /* accordeon script file */
+  var acc = document.getElementsByClassName("accordion");
+  for (var i = 0; i < acc.length; i++) {
+    acc[i].addEventListener("click", function() {
+      var panel = this.nextElementSibling;
+      /* if panel already open */
+      if (panel.style.maxHeight) {
+        this.classList.toggle('activeA', false);
+        panel.style.maxHeight = null;
+        return;
+      }
+      /* else */
+      for (var j = 0; j < acc.length; j++) {
+        acc[j].classList.toggle('activeA', false)
+        var p = acc[j].nextElementSibling;
+        p.style.maxHeight = null;
+      }
+      this.classList.toggle('activeA', true);
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    });
+  }
+  /* break */
+  /* break */
+  (function(){
+    /* result funtion */
+    function showResult(){
+      /* for single-input questions */
+      if(slides[currentSlide].title == "input"){
+        var answer = slides[currentSlide].querySelector("input").value;
+        if (answer.toLowerCase() == slides[currentSlide].querySelector(".solution").innerHTML.toLowerCase()){
+          slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "lightgreen";
+          showExplanation(1);   
+        }
+        else if(answer == "") {
+          /* do nothing */
+        }
+        else {
+          slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "red";
+          showExplanation(1);
+        }
+      }
+      /* for single-/multiple-choice questions */
+      else {
+        /* reset previous selections */
+        slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
+            currentLabel.style.color = "#0A1F40";
+        });
+        /* find selected answers */
+        const answerContainer = slides[currentSlide].querySelector(".answers");
+        const selector = `input:checked`;
+        const userAnswers = (answerContainer.querySelectorAll(selector) || {});
+        /* get correct answers */
+        correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
+        /* check all answers */
+        userAnswers.forEach( (currentAnswer, answerNumber) => {
+          /* if answer is correct */
+          if(correctAnswers.includes(currentAnswer.value)){
+            /* color the answers green */
+            var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+            answers.forEach( (currentLabel, labelNumber) => {
+              if (currentAnswer.value === currentLabel.title){  
+                currentLabel.style.color = "lightgreen";
+              }
+            });
+            showExplanation(1);      
+          }
+          /* if answer is blank */
+          else if (currentAnswer.value == null){
+            /* do nothing */
+          }
+          /* if answer is wrong */
+          else{
+            /* color the answers red */
+            var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+            answers.forEach( (currentLabel, labelNumber) => {
+              if (currentAnswer.value === currentLabel.title){  
+                currentLabel.style.color = "red";
+              }
+            });
+            showExplanation(1);
+          }
+        });
+        /* if multiple-choice: mark unchecked correct answers red if min. one answer selected */
+        if (correctAnswers.length > 1 && userAnswers.length > 0) {
+          var list = [];
+          userAnswers.forEach( (currentAnswer, answerNumber) => {
+               list.push(currentAnswer.value);
+          });
+          var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
+          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
+          wrong.forEach( (wrongAnswer, answerNumber) => {
+            answers.forEach( (currentLabel, labelNumber) => {
+              if (wrongAnswer === currentLabel.title){  
+                currentLabel.style.color = "red";
+              }
+            });
+          });
+        }
+      }
+    }
+    /* explanation function */
+    function showExplanation(x) {
+      if (x == 1) {
+        explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
+      }
+      else if (x == 0) {
+        explanationContainer.innerHTML = ``;
+        slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
+          currentLabel.style.color = "#0A1F40";
+        });
+      }
+    }
+    /* slide function */
+    function showSlide(n) {
+      slides[currentSlide].style.display = 'none';
+      slides[n].style.display = 'block';
+      currentSlide = n;
+      if(currentSlide === 0){
+        previousButton.style.display = 'none';
+      }
+      else{
+        previousButton.style.display = 'inline-block';
+      }
+      if(currentSlide === slides.length-1){
+        nextButton.style.display = 'none';
+      }
+      else{
+        nextButton.style.display = 'inline-block';
+      }
+      //for pagination
+      pagination.innerHTML = `Frage ${currentSlide + 1} von ${slides.length}`;
+    }
+    function showNextSlide() {
+      showSlide(currentSlide + 1);
+    }
+    function showPreviousSlide() {
+      showSlide(currentSlide - 1);
+    }
+    // Variables
+    const slides = document.querySelectorAll("div.slide");
+    const explanationContainer = document.querySelector("div.explanationContainer");
+    const pagination = document.getElementById('pagination');
+    const previousButton = document.getElementById("previous");
+    const nextButton = document.getElementById("next");
+    const submitButton = document.getElementById('submit');
+    let currentSlide = 0;
+    // Show the first slide
+    showSlide(currentSlide);
+    // Event listeners
+    submitButton.addEventListener('click', showResult);
+    previousButton.addEventListener("click", () => {    
+     showExplanation(0);    
+     showPreviousSlide();
+    });
+    nextButton.addEventListener("click", () => {    
+     showExplanation(0);  
+     showNextSlide();  
+    });
+  })();
+</script>
