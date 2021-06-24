@@ -19,13 +19,19 @@ link: https://github.com/pilotta314/GitHubTestOER/blob/master/style.css
 [preview-lia](https://raw.githubusercontent.com/pilotta314/GitHubTestOER/master/courseLiaScript.md)
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
-<b>moinsen</b>
-
-<font color="green">moini</font>
-
-<font size="5">was geht?</font>
-
-<small>gleich mittag</small>
+<html>
+  <head>
+    <title>
+      Test
+    </title>
+  </head>
+<body bgcolor=ffff00>
+  <h1>Ueberschrift</h1>
+    Text text
+    <hr>
+    text texti
+</body>
+</html>
 
 Eine Eigenschaft, die jeden Körper kennzeichnet, ist seine Masse. Schon seit langer Zeit werden Massen bestimmt. Mit Hilfe von Balkenwaagen konnten die Ägypter vor mehr als 5000 Jahren Massen vergleichen und unbekannte Massen bestimmen. Sind zwei Massen gleich groß, ist eine Balkenwaage bei einer Messung im Gleichgewicht. Ist die Masse auf einer Seite größer, bewegt sich diese Seite nach unten. Dieses Verhalten ist unabhängig davon, wo die Messung durchgeführt wird. Eine Anordnung, die auf der Erde im Gleichgewicht ist, wäre sogar auf dem Mond im Gleichgewicht.
 
