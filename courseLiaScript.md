@@ -49,6 +49,7 @@ Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg
   </p>
 
 <html>
+    <body>
   <li>
     <i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternalis*)
   </li><br>
@@ -67,6 +68,7 @@ Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg
   <li>
     <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen
   </li><br>
+    </body>
 </html>
 
 > **Beispiel 3.1.1**
