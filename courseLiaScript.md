@@ -19,214 +19,6 @@ link: https://github.com/pilotta314/GitHubTestOER/blob/master/style.css
 [preview-lia](https://raw.githubusercontent.com/pilotta314/GitHubTestOER/master/courseLiaScript.md)
 ## Basiswissen „Masse der Körper und Gewichtskraft“
 
-<html>
-  <head>
-    <title>
-      Test
-    </title>
-  </head>
-<body bgcolor=green>
-  <h1>Ueberschrift</h1>
-    Text text
-    <hr>
-    text text
-  
-  <div>
-   <button class="accordion"><img src="images/creative-commons_cc-zero.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC Zero Lizenz" title="CC Zero Lizenz" height="60"/> <a aria-describedby="Link zur CC Zero Lizenz" href="https://creativecommons.org/publicdomain/zero/1.0/deed.de" target="_blank">zur Lizenz</a></button>
-   <div class="panel">
-     <p><b>CC 0 = Ohne Bedingungen</b><br>Es bestehen keine Restriktionen im Hinblick auf die Verwendung, Veränderung und Verbreitung des Inhalts/Werks. Kopien und bearbeitete Versionen können auch kommerziell genutzt werden. Zwar sind keine Urheberangaben nötig, aus Wertschätzung wird die urhebende Person meist trotzdem genannt.
-     </p>
-   </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY Lizenz" title="CC BY Lizenz" height="60"/> <a aria-describedby="Link zur CC BY Lizenz" href="https://creativecommons.org/licenses/by/4.0/deed.de" target="_blank">zur Lizenz</a></button>
-   <div class="panel">
-     <p><b>CC BY = Namensnennung</b><br>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks können auch kommerziell genutzt werden.</p>
-   </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by-sa.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY SA Lizenz" title="CC BY SA Lizenz" height="60"/> <a aria-describedby="Link zur CC BY SA Lizenz" href="https://creativecommons.org/licenses/by-sa/4.0/deed.de" target="_blank">zur Lizenz</a></button>
-   <div class="panel">
-     <p><b>CC BY SA = Namensnennung und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Inhalts/Werks unter derselben Lizenz zu veröffentlichen. Dies stellt sicher, dass die Inhalte auch weiterhin frei zugänglich bleiben.</p>
-   </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by-nc.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC Lizenz" title="CC BY NC Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC Lizenz" href="https://creativecommons.org/licenses/by-nc/4.0/deed.de" target="_blank">zur Lizenz</a></button>
-   <div class="panel">
-     <p><b>CC BY NC = Namensnennung und nicht kommerziell</b><br>Der Name der urhebenden Person muss genannt werden. Kopien und bearbeitete Versionen des Inhalts/Werks dürfen nicht kommerziell genutzt werden.</p>
-   </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by-nd.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY ND Lizenz" title="CC BY ND Lizenz" height="60"/> <a aria-describedby="Link zur CC BY ND Lizenz" href="https://creativecommons.org/licenses/by-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
-   <div class="panel">
-     <p><b>CC BY ND = Namensnennung und keine Bearbeitung</b><br>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes, kommerziell wie nicht-kommerziell, solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden.</p>
-   </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by-nc-sa.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC SA Lizenz" title="CC BY NC SA Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC SA Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
-   <div class="panel">
-      <p><b>CC BY NC SA = Namensnennung, nicht kommerziell und Weitergabe unter gleichen Bedingungen</b><br>Neben der korrekten Namensnennung der urhebenden Person ist es erforderlich, alle bearbeiteten Versionen des Materials unter derselben Lizenz zu veröffentlichen. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</p>
-   </div>
-   <button class="accordion"><img src="images/creative-commons_cc-by-nc-nd.vg.svg" style="float:left;margin:0 10px 0 0" alt="Abb. CC BY NC ND Lizenz" title="CC BY NC ND Lizenz" height="60"/> <a aria-describedby="Link zur CC BY NC ND Lizenz" href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.de" target="_blank">zur Lizenz</a></button>
-   <div class="panel">
-     <p><b>CC BY NC ND = Namensnennung, nicht kommerziell und keine Bearbeitung</b><br>Diese Lizenz erlaubt Dritten die Weiterverbreitung des Inhalts/Werkes solange dies ohne Veränderungen und vollständig geschieht. Zudem muss die urhebende Person genannt werden. Kopien und bearbeitete Versionen dürfen nicht kommerziell genutzt werden.</p>
-   </div>
-</div>
-
-</body>
-  <script>
-  /* accordeon script file */
-  var acc = document.getElementsByClassName("accordion");
-  for (var i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      var panel = this.nextElementSibling;
-      /* if panel already open */
-      if (panel.style.maxHeight) {
-        this.classList.toggle('activeA', false);
-        panel.style.maxHeight = null;
-        return;
-      }
-      /* else */
-      for (var j = 0; j < acc.length; j++) {
-        acc[j].classList.toggle('activeA', false)
-        var p = acc[j].nextElementSibling;
-        p.style.maxHeight = null;
-      }
-      this.classList.toggle('activeA', true);
-      panel.style.maxHeight = panel.scrollHeight + "px";
-    });
-  }
-  /* break */
-  /* break */
-  (function(){
-    /* result funtion */
-    function showResult(){
-      /* for single-input questions */
-      if(slides[currentSlide].title == "input"){
-        var answer = slides[currentSlide].querySelector("input").value;
-        if (answer.toLowerCase() == slides[currentSlide].querySelector(".solution").innerHTML.toLowerCase()){
-          slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "lightgreen";
-          showExplanation(1);   
-        }
-        else if(answer == "") {
-          /* do nothing */
-        }
-        else {
-          slides[currentSlide].querySelector(".answers").querySelector("label").style.color = "red";
-          showExplanation(1);
-        }
-      }
-      /* for single-/multiple-choice questions */
-      else {
-        /* reset previous selections */
-        slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
-            currentLabel.style.color = "#0A1F40";
-        });
-        /* find selected answers */
-        const answerContainer = slides[currentSlide].querySelector(".answers");
-        const selector = `input:checked`;
-        const userAnswers = (answerContainer.querySelectorAll(selector) || {});
-        /* get correct answers */
-        correctAnswers = slides[currentSlide].querySelector(".solution").innerHTML.split(",");
-        /* check all answers */
-        userAnswers.forEach( (currentAnswer, answerNumber) => {
-          /* if answer is correct */
-          if(correctAnswers.includes(currentAnswer.value)){
-            /* color the answers green */
-            var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-            answers.forEach( (currentLabel, labelNumber) => {
-              if (currentAnswer.value === currentLabel.title){  
-                currentLabel.style.color = "lightgreen";
-              }
-            });
-            showExplanation(1);      
-          }
-          /* if answer is blank */
-          else if (currentAnswer.value == null){
-            /* do nothing */
-          }
-          /* if answer is wrong */
-          else{
-            /* color the answers red */
-            var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-            answers.forEach( (currentLabel, labelNumber) => {
-              if (currentAnswer.value === currentLabel.title){  
-                currentLabel.style.color = "red";
-              }
-            });
-            showExplanation(1);
-          }
-        });
-        /* if multiple-choice: mark unchecked correct answers red if min. one answer selected */
-        if (correctAnswers.length > 1 && userAnswers.length > 0) {
-          var list = [];
-          userAnswers.forEach( (currentAnswer, answerNumber) => {
-               list.push(currentAnswer.value);
-          });
-          var wrong = correctAnswers.filter( (value, index) => {return !list.includes(value)});
-          var answers = slides[currentSlide].querySelector(".answers").querySelectorAll("label");
-          wrong.forEach( (wrongAnswer, answerNumber) => {
-            answers.forEach( (currentLabel, labelNumber) => {
-              if (wrongAnswer === currentLabel.title){  
-                currentLabel.style.color = "red";
-              }
-            });
-          });
-        }
-      }
-    }
-    /* explanation function */
-    function showExplanation(x) {
-      if (x == 1) {
-        explanationContainer.innerHTML = `<b>Ergänzungen zur Antwort:</b><br> ${slides[currentSlide].querySelector(".explanation").innerHTML}`;
-      }
-      else if (x == 0) {
-        explanationContainer.innerHTML = ``;
-        slides[currentSlide].querySelector(".answers").querySelectorAll("label").forEach( (currentLabel, labelNumber) => { 
-          currentLabel.style.color = "#0A1F40";
-        });
-      }
-    }
-    /* slide function */
-    function showSlide(n) {
-      slides[currentSlide].style.display = 'none';
-      slides[n].style.display = 'block';
-      currentSlide = n;
-      if(currentSlide === 0){
-        previousButton.style.display = 'none';
-      }
-      else{
-        previousButton.style.display = 'inline-block';
-      }
-      if(currentSlide === slides.length-1){
-        nextButton.style.display = 'none';
-      }
-      else{
-        nextButton.style.display = 'inline-block';
-      }
-      //for pagination
-      pagination.innerHTML = `Frage ${currentSlide + 1} von ${slides.length}`;
-    }
-    function showNextSlide() {
-      showSlide(currentSlide + 1);
-    }
-    function showPreviousSlide() {
-      showSlide(currentSlide - 1);
-    }
-    // Variables
-    const slides = document.querySelectorAll("div.slide");
-    const explanationContainer = document.querySelector("div.explanationContainer");
-    const pagination = document.getElementById('pagination');
-    const previousButton = document.getElementById("previous");
-    const nextButton = document.getElementById("next");
-    const submitButton = document.getElementById('submit');
-    let currentSlide = 0;
-    // Show the first slide
-    showSlide(currentSlide);
-    // Event listeners
-    submitButton.addEventListener('click', showResult);
-    previousButton.addEventListener("click", () => {    
-     showExplanation(0);    
-     showPreviousSlide();
-    });
-    nextButton.addEventListener("click", () => {    
-     showExplanation(0);  
-     showNextSlide();  
-    });
-  })();
-</script>
-</html>
-
 Eine Eigenschaft, die jeden Körper kennzeichnet, ist seine Masse. Schon seit langer Zeit werden Massen bestimmt. Mit Hilfe von Balkenwaagen konnten die Ägypter vor mehr als 5000 Jahren Massen vergleichen und unbekannte Massen bestimmen. Sind zwei Massen gleich groß, ist eine Balkenwaage bei einer Messung im Gleichgewicht. Ist die Masse auf einer Seite größer, bewegt sich diese Seite nach unten. Dieses Verhalten ist unabhängig davon, wo die Messung durchgeführt wird. Eine Anordnung, die auf der Erde im Gleichgewicht ist, wäre sogar auf dem Mond im Gleichgewicht.
 
 Die Masse ist eine Eigenschaft eines Körpers. Bringt man einen Körper zum Beispiel von der Erde auf den Mond, bleibt seine Masse erhalten. Die Einheit der Masse ist: $[m]=kg$.
@@ -245,17 +37,15 @@ Hier steht $\overrightarrow{g}$ für die bekannte Erdbeschleunigung. Die Erdbesc
 
 Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg \cdot \frac{m}{s^2}$.
 
-<div class="infobox">
-  <p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
+<p><i class="fa fa-info-circle" style="color:blue"></i>  <b>Info!</b>
     <br><br>
     Im ersten Schritt festigen Sie Ihr Wissen zu einem grundlegenden Merkmal von OER: Der offenen Lizenzierung. Der Fokus liegt hierbei auf den einzelnen Modulen des Creative Commons Lizenzsystems. Darüber hinaus werden die Grundlagen des Urheberrechts kurz für Sie zusammengefasst. Ziel der Einheit ist es, Sie dazu zu befähigen, OER von geschlossenen Bildungsmaterialien abzugrenzen.
     <br>
     <br>
     <b>Workload: 1-2 Stunden</b>
   </p>
-</div>
 
-<ul><br>
+
   <li>
     <i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternalis*)
   </li><br>
@@ -274,8 +64,7 @@ Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg
   <li>
     <i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)
   </li>
-  
-</ul>
+
 
 > **Beispiel 3.1.1**
 >
