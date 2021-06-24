@@ -45,7 +45,7 @@ Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg
     <b>Workload: 1-2 Stunden</b>
   </p>
 
-
+<html>
   <li>
     <i class="fa fa-check-circle" style="color:green"></i> Verwendung von Schlagworten: Denken Sie auch an die Suchtechnik des <b>Trunkierens</b>; eher wenige Stichwörter, dafür aber Wortteile statt ganzer Wörter (Beispiel: Systemtheorie → system*theor*, Paternalismus → paternalis*)
   </li><br>
@@ -59,12 +59,12 @@ Die Einheit der Kraft $F$ ist das Newton: $[F]=N$. Für das Newton gilt: $1N=1kg
     <i class="fa fa-check-circle" style="color:green"></i> Eingabe des Suchbegriffs + <b>Creative Commons</b> oder speziell der <b>Lizenz</b> (CC 0, CC BY etc.)
   </li><br>
   <li>
-    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen
-  </li><br>
-  <li>
     <i class="fa fa-check-circle" style="color:green"></i> Verwendung <b>spezifischer Filteroptionen</b> in OER-Repositorien; z.B. die erweiterte Suche (Lizenz, Quelle, Institution, Autor*in, Materialart, Fach- und Sachgebiet, etc.)
   </li>
-
+  <li>
+    <i class="fa fa-check-circle" style="color:green"></i> Nutzung von <b>englischen</b> Begriffen
+  </li><br>
+</html>
 
 > **Beispiel 3.1.1**
 >
